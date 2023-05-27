@@ -78172,10 +78172,10 @@ q.d!==$&&A.cU()
 q.d=new A.OX(s)
 r=A.a([],t.mE)
 q.e!==$&&A.cU()
-q.e=new A.IF("http://192.168.0.105:3040/api/element",r,s)
+q.e=new A.IF("https://multiapps-seven.vercel.app/api/element",r,s)
 r=A.a([],t.sI)
 q.f!==$&&A.cU()
-q.f=new A.Mm("http://192.168.0.105:3040/api/elementpropeties",r,s)},
+q.f=new A.Mm("https://multiapps-seven.vercel.app/api/elementpropeties",r,s)},
 G(a){var s,r=this,q=null,p=$.aC8(),o=$.aC6(),n=$.aD5(),m=$.aCD(),l=A.ari(B.lu,m),k=t.ZF
 l=A.aGj(q,0.5,0.94,B.MQ,!0,q,20,q,q,q,q,q,A.d5([B.BX],k),p,B.nW,!1,q,q,q,q,q,q,q,q,q,q,q,m,q,q,B.hh,q,B.iE,q,q,B.nX,q,B.iF,q,!1,!1,B.nZ,q,q,B.hh,o,!0,!0,l,!1,!1,6,n).gR6()
 o=$.aC5()
