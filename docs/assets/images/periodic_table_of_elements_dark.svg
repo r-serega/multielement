@@ -1,0 +1,1373 @@
+<?xml version="1.0"?>
+<svg width="792" height="466.579" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" enable-background="new 0 0 792 466.579" version="1.1" xml:space="preserve">
+ <metadata id="metadata2031">image/svg+xml</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffbfff" height="43.03" id="rect2" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="103.19" y="346.04"/>
+  <rect fill="#A0FFA0" height="43.03" id="rect4" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="24.41" y="21.18"/>
+  <g id="g8">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text6" transform="matrix(1 0 0 1 35.647 62.6641)">1.008</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect10" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="66.29"/>
+  <g id="g14">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text12" transform="matrix(1 0 0 1 37.2661 107.7695)">6.94</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect16" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="111.39"/>
+  <g id="g20">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text18" transform="matrix(1 0 0 1 34.0278 152.875)">22.990</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect22" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="156.5"/>
+  <g id="g26">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text24" transform="matrix(1 0 0 1 34.0278 197.981)">39.098</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect28" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="201.6"/>
+  <g id="g32">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text30" transform="matrix(1 0 0 1 34.0278 243.0859)">85.468</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect34" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="246.71"/>
+  <g id="g38">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text36" transform="matrix(1 0 0 1 32.4087 288.1914)">132.905</text>
+  </g>
+  <rect fill="#ff6666" height="43.03" id="rect40" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="24.41" y="291.81"/>
+  <rect fill="#ffdead" height="43.03" id="rect42" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="63.69" y="66.29"/>
+  <g id="g46">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text44" transform="matrix(1 0 0 1 74.9224 107.7695)">9.012</text>
+  </g>
+  <rect fill="#ffdead" height="43.03" id="rect48" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="63.69" y="111.39"/>
+  <g id="g52">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text50" transform="matrix(1 0 0 1 73.3032 152.875)">24.305</text>
+  </g>
+  <rect fill="#ffdead" height="43.03" id="rect54" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="63.69" y="156.5"/>
+  <g id="g58">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text56" transform="matrix(1 0 0 1 73.3032 197.981)">40.078</text>
+  </g>
+  <rect fill="#ffdead" height="43.03" id="rect60" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="63.69" y="201.6"/>
+  <rect fill="#ffdead" height="43.03" id="rect62" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="63.69" y="246.71"/>
+  <g id="g66">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text64" transform="matrix(1 0 0 1 71.6841 288.1914)">137.327</text>
+  </g>
+  <rect fill="#ffdead" height="43.03" id="rect68" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="63.69" y="291.81"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text70" transform="matrix(1 0 0 1 30.3364 54.6909)">Hydrogen</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text72" transform="matrix(1 0 0 1 33.7998 99.7964)">Lithium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text74" transform="matrix(1 0 0 1 33.3291 145.9023)">Sodium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text76" transform="matrix(1 0 0 1 29.8633 190.0078)">Potassium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text78" transform="matrix(1 0 0 1 30.8096 235.1138)">Rubidium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text80" transform="matrix(1 0 0 1 33.3291 280.2188)">Cesium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text82" transform="matrix(1 0 0 1 31.1216 325.3242)">Francium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text84" transform="matrix(1 0 0 1 70.5586 99.7964)">Beryllium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text86" transform="matrix(1 0 0 1 67.4067 145.9023)">Magnesium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text88" transform="matrix(1 0 0 1 71.8169 190.0078)">Calcium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text90" transform="matrix(1 0 0 1 70.2407 235.1138)">Strontium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text92" transform="matrix(1 0 0 1 73.2339 280.2188)">Barium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text94" transform="matrix(1 0 0 1 72.4458 325.3242)">Radium</text>
+  <g id="g98">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text96" transform="matrix(1 0 0 1 40.9902 30.9536)">1</text>
+  </g>
+  <g id="g102">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text100" transform="matrix(1 0 0 1 40.9902 76.0591)">3</text>
+  </g>
+  <g id="g106">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text104" transform="matrix(1 0 0 1 39.0464 121.165)">11</text>
+  </g>
+  <g id="g110">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text108" transform="matrix(1 0 0 1 39.0464 166.2705)">19</text>
+  </g>
+  <g id="g114">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text112" transform="matrix(1 0 0 1 39.0464 211.3765)">37</text>
+  </g>
+  <g id="g118">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text116" transform="matrix(1 0 0 1 39.0464 256.4824)">55</text>
+  </g>
+  <g id="g122">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text120" transform="matrix(1 0 0 1 39.0464 301.5879)">87</text>
+  </g>
+  <g id="g126">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text124" transform="matrix(1 0 0 1 80.2656 76.0591)">4</text>
+  </g>
+  <g id="g130">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text128" transform="matrix(1 0 0 1 78.3218 121.165)">12</text>
+  </g>
+  <g id="g134">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text132" transform="matrix(1 0 0 1 78.3218 166.2705)">20</text>
+  </g>
+  <g id="g138">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text136" transform="matrix(1 0 0 1 78.3218 211.3765)">38</text>
+  </g>
+  <g id="g142">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text140" transform="matrix(1 0 0 1 78.3218 256.4824)">56</text>
+  </g>
+  <g id="g146">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text144" transform="matrix(1 0 0 1 78.3218 301.5879)">88</text>
+  </g>
+  <g id="g150">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text148" transform="matrix(1 0 0 1 36.7148 47.543)">H</text>
+  </g>
+  <g id="g154">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text152" transform="matrix(1 0 0 1 35.2808 92.6484)">Li</text>
+  </g>
+  <g id="g158">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text156" transform="matrix(1 0 0 1 31.9248 136.7539)">Na</text>
+  </g>
+  <g id="g162">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text160" transform="matrix(1 0 0 1 36.7148 182.8594)">K</text>
+  </g>
+  <g id="g166">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text164" transform="matrix(1 0 0 1 31.4541 227.9658)">Rb</text>
+  </g>
+  <g id="g170">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text168" transform="matrix(1 0 0 1 31.9248 273.0713)">Cs</text>
+  </g>
+  <g id="g174">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text172" transform="matrix(1 0 0 1 34.3223 318.1768)">Fr</text>
+  </g>
+  <g id="g178">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text176" transform="matrix(1 0 0 1 71.2002 92.6484)">Be</text>
+  </g>
+  <g id="g182">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text180" transform="matrix(1 0 0 1 69.7749 136.7539)">Mg</text>
+  </g>
+  <g id="g186">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text184" transform="matrix(1 0 0 1 71.2002 182.8594)">Ca</text>
+  </g>
+  <g id="g190">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text188" transform="matrix(1 0 0 1 73.1138 227.9658)">Sr</text>
+  </g>
+  <g id="g194">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text192" transform="matrix(1 0 0 1 74.9224 243.2529)">87.62</text>
+  </g>
+  <g id="g198">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text196" transform="matrix(1 0 0 1 71.2002 273.0713)">Ba</text>
+  </g>
+  <g id="g202">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text200" transform="matrix(1 0 0 1 71.2002 318.1768)">Ra</text>
+  </g>
+  <rect fill="#9cfc9c" height="63.73" id="rect204" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="54.87" x="254.71" y="66.33"/>
+  <g id="g208">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="10.52" id="text206" transform="matrix(1 0 0 1 268.9531 127.771)">12.011</text>
+  </g>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="8.39" id="text210" transform="matrix(1 0 0 1 268.1494 115.9629)">Carbon</text>
+  <g id="g214">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="12.62" id="text212" transform="matrix(1 0 0 1 279.2642 80.8081)">6</text>
+  </g>
+  <g id="g218">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="25.51" id="text216" transform="matrix(1 0 0 1 272.9312 105.3774)">C</text>
+  </g>
+  <g id="g222">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text220" transform="matrix(1 0 0 1 36.4565 332.2969)">[223]</text>
+  </g>
+  <g id="g226">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text224" transform="matrix(1 0 0 1 75.7319 332.2969)">[226]</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect228" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="103.19" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text230" transform="matrix(1 0 0 1 110.6846 424.6582)">Actinium</text>
+  <g id="g234">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text232" transform="matrix(1 0 0 1 117.8218 400.9199)">89</text>
+  </g>
+  <g id="g238" transform="matrix(1 0 0 1 0 0)">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text236" transform="matrix(1 0 0 1 111.6592 372.4043)">La</text>
+  </g>
+  <g id="g242">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text240" transform="matrix(1 0 0 1 110.7002 417.5098)">Ac</text>
+  </g>
+  <g id="g246">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text244" transform="matrix(1 0 0 1 115.2319 431.6309)">[227]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect248" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.69" y="346.04"/>
+  <g id="g252">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text250" transform="matrix(1 0 0 1 150.6841 387.5254)">140.116</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect254" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.69" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text256" transform="matrix(1 0 0 1 152.0776 379.5527)">Cerium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text258" transform="matrix(1 0 0 1 150.9727 424.6582)">Thorium</text>
+  <g id="g262">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text260" transform="matrix(1 0 0 1 157.3218 355.8145)">58</text>
+  </g>
+  <g id="g266">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text264" transform="matrix(1 0 0 1 157.3218 400.9199)">90</text>
+  </g>
+  <g id="g270">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text268" transform="matrix(1 0 0 1 150.2002 372.4043)">Ce</text>
+  </g>
+  <g id="g274">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text272" transform="matrix(1 0 0 1 150.688 417.5098)">Th</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect276" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="182.19" y="345.04"/>
+  <g id="g280">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text278" transform="matrix(1 0 0 1 190.1841 387.5254)">140.908</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect282" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="182.19" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.15" id="text284" transform="matrix(1 0 0 1 183.7476 379.5527)">Praseodymium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text286" transform="matrix(1 0 0 1 184.9604 424.6582)">Protactinium</text>
+  <g id="g290">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text288" transform="matrix(1 0 0 1 196.8218 355.8145)">59</text>
+  </g>
+  <g id="g294">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text292" transform="matrix(1 0 0 1 196.8218 400.9199)">91</text>
+  </g>
+  <g id="g298">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text296" transform="matrix(1 0 0 1 191.6138 372.4043)">Pr</text>
+  </g>
+  <g id="g302">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text300" transform="matrix(1 0 0 1 190.1758 417.5098)">Pa</text>
+  </g>
+  <g id="g306">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text304" transform="matrix(1 0 0 1 190.1841 431.6309)">231.036</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect308" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.69" y="346.04"/>
+  <g id="g312">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text310" transform="matrix(1 0 0 1 229.6841 387.5254)">144.242</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect314" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.69" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text316" transform="matrix(1 0 0 1 224.9365 379.5527)">Neodymium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text318" transform="matrix(1 0 0 1 229.502 424.6582)">Uranium</text>
+  <g id="g322">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text320" transform="matrix(1 0 0 1 236.3218 355.8145)">60</text>
+  </g>
+  <g id="g326">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text324" transform="matrix(1 0 0 1 236.3218 400.9199)">92</text>
+  </g>
+  <g id="g330">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text328" transform="matrix(1 0 0 1 228.7295 372.4043)">Nd</text>
+  </g>
+  <g id="g334">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text332" transform="matrix(1 0 0 1 233.9902 417.5098)">U</text>
+  </g>
+  <g id="g338">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text336" transform="matrix(1 0 0 1 229.6841 431.6309)">238.029</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect340" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="261.35" y="346.04"/>
+  <g id="g344">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text342" transform="matrix(1 0 0 1 273.3984 386.5254)">[145]</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect346" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="261.35" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text348" transform="matrix(1 0 0 1 264.7588 379.5527)">Promethium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text350" transform="matrix(1 0 0 1 266.0171 424.6582)">Neptunium</text>
+  <g id="g354">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text352" transform="matrix(1 0 0 1 275.9883 355.8145)">61</text>
+  </g>
+  <g id="g358">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text356" transform="matrix(1 0 0 1 275.9883 400.9199)">93</text>
+  </g>
+  <g id="g362">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text360" transform="matrix(1 0 0 1 266.4741 372.4043)">Pm</text>
+  </g>
+  <g id="g366">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text364" transform="matrix(1 0 0 1 268.396 417.5098)">Np</text>
+  </g>
+  <g id="g370">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text368" transform="matrix(1 0 0 1 273.3984 431.6309)">[237]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect372" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="301.02" y="346.04"/>
+  <g id="g376">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text374" transform="matrix(1 0 0 1 310.6362 387.5254)">150.36</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect378" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="301.02" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text380" transform="matrix(1 0 0 1 306.7891 379.5527)">Samarium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text382" transform="matrix(1 0 0 1 307.1006 424.6582)">Plutonium</text>
+  <g id="g386">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text384" transform="matrix(1 0 0 1 315.6548 355.8145)">62</text>
+  </g>
+  <g id="g390">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text388" transform="matrix(1 0 0 1 315.6548 400.9199)">94</text>
+  </g>
+  <g id="g394">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text392" transform="matrix(1 0 0 1 306.1406 372.4043)">Sm</text>
+  </g>
+  <g id="g398">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text396" transform="matrix(1 0 0 1 308.5376 417.5098)">Pu</text>
+  </g>
+  <g id="g402">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text400" transform="matrix(1 0 0 1 313.0649 431.6309)">[244]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect404" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="340.68" y="346.04"/>
+  <g id="g408">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text406" transform="matrix(1 0 0 1 348.6836 387.5254)">151.964</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect410" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="340.68" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text412" transform="matrix(1 0 0 1 347.0845 379.5527)">Europium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text414" transform="matrix(1 0 0 1 345.6675 424.6582)">Americium</text>
+  <g id="g418">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text416" transform="matrix(1 0 0 1 355.3213 355.8145)">63</text>
+  </g>
+  <g id="g422">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text420" transform="matrix(1 0 0 1 355.3213 400.9199)">95</text>
+  </g>
+  <g id="g426">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text424" transform="matrix(1 0 0 1 348.2041 372.4043)">Eu</text>
+  </g>
+  <g id="g430">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text428" transform="matrix(1 0 0 1 345.332 417.5098)">Am</text>
+  </g>
+  <g id="g434">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text432" transform="matrix(1 0 0 1 352.7314 431.6309)">[243]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect436" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="380.35" y="346.04"/>
+  <g id="g440">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text438" transform="matrix(1 0 0 1 389.9692 387.5254)">157.25</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect442" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="380.35" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text444" transform="matrix(1 0 0 1 384.3877 379.5527)">Gadolinium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text446" transform="matrix(1 0 0 1 389.7437 424.6582)">Curium</text>
+  <g id="g450">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text448" transform="matrix(1 0 0 1 394.9878 355.8145)">64</text>
+  </g>
+  <g id="g454">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text452" transform="matrix(1 0 0 1 394.9878 400.9199)">96</text>
+  </g>
+  <g id="g458">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text456" transform="matrix(1 0 0 1 386.916 372.4043)">Gd</text>
+  </g>
+  <g id="g462">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text460" transform="matrix(1 0 0 1 384.9985 417.5098)">Cm</text>
+  </g>
+  <g id="g466">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text464" transform="matrix(1 0 0 1 392.3979 431.6309)">[247]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect468" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="420.02" y="345.04"/>
+  <g id="g472">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text470" transform="matrix(1 0 0 1 428.0166 387.5254)">158.925</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect474" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="420.02" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text476" transform="matrix(1 0 0 1 428.1484 379.5527)">Terbium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text478" transform="matrix(1 0 0 1 425.9443 424.6582)">Berkelium</text>
+  <g id="g482">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text480" transform="matrix(1 0 0 1 434.6543 355.8145)">65</text>
+  </g>
+  <g id="g486">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text484" transform="matrix(1 0 0 1 434.6543 400.9199)">97</text>
+  </g>
+  <g id="g490">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text488" transform="matrix(1 0 0 1 428.0205 372.4043)">Tb</text>
+  </g>
+  <g id="g494">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text492" transform="matrix(1 0 0 1 427.5332 417.5098)">Bk</text>
+  </g>
+  <g id="g498">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text496" transform="matrix(1 0 0 1 432.0645 431.6309)">[247]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect500" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="459.68" y="346.04"/>
+  <g id="g504">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text502" transform="matrix(1 0 0 1 467.6836 387.5254)">162.500</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect506" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="459.68" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text508" transform="matrix(1 0 0 1 463.0938 379.5527)">Dysprosium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text510" transform="matrix(1 0 0 1 463.8789 424.6582)">Californium</text>
+  <g id="g514">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text512" transform="matrix(1 0 0 1 474.3203 355.8145)">66</text>
+  </g>
+  <g id="g518">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text516" transform="matrix(1 0 0 1 474.3203 400.9199)">98</text>
+  </g>
+  <g id="g522">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text520" transform="matrix(1 0 0 1 467.1992 372.4043)">Dy</text>
+  </g>
+  <g id="g526">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text524" transform="matrix(1 0 0 1 469.1211 417.5098)">Cf</text>
+  </g>
+  <g id="g530">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text528" transform="matrix(1 0 0 1 471.7305 431.6309)">[251]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect532" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="499.35" y="346.04"/>
+  <g id="g536">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text534" transform="matrix(1 0 0 1 507.3496 387.5254)">164.930</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect538" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="499.35" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text540" transform="matrix(1 0 0 1 506.6973 379.5527)">Holmium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text542" transform="matrix(1 0 0 1 503.3867 424.6582)">Einsteinium</text>
+  <g id="g546">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text544" transform="matrix(1 0 0 1 513.9873 355.8145)">67</text>
+  </g>
+  <g id="g550">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text548" transform="matrix(1 0 0 1 513.9873 400.9199)">99</text>
+  </g>
+  <g id="g554">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text552" transform="matrix(1 0 0 1 506.3945 372.4043)">Ho</text>
+  </g>
+  <g id="g558">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text556" transform="matrix(1 0 0 1 507.3418 417.5098)">Es</text>
+  </g>
+  <g id="g562">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text560" transform="matrix(1 0 0 1 511.3975 431.6309)">[252]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect564" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="539.02" y="346.04"/>
+  <g id="g568">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text566" transform="matrix(1 0 0 1 547.0156 387.5254)">167.259</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect570" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="539.02" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text572" transform="matrix(1 0 0 1 548.5684 379.5527)">Erbium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text574" transform="matrix(1 0 0 1 546.5195 424.6582)">Fermium</text>
+  <g id="g578">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text576" transform="matrix(1 0 0 1 553.6543 355.8145)">68</text>
+  </g>
+  <g id="g582">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text580" transform="matrix(1 0 0 1 551.7109 400.9199)">100</text>
+  </g>
+  <g id="g586">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text584" transform="matrix(1 0 0 1 548.4453 372.4043)">Er</text>
+  </g>
+  <g id="g590">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text588" transform="matrix(1 0 0 1 544.623 417.5098)">Fm</text>
+  </g>
+  <g id="g594">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text592" transform="matrix(1 0 0 1 551.0645 431.6309)">[257]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect596" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="578.68" y="346.04"/>
+  <g id="g600">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text598" transform="matrix(1 0 0 1 586.6826 387.5254)">168.934</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect602" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="578.68" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text604" transform="matrix(1 0 0 1 587.2852 379.5527)">Thulium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text606" transform="matrix(1 0 0 1 580.3172 424.6582)">Mendelevium</text>
+  <g id="g610">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text608" transform="matrix(1 0 0 1 593.3203 355.8145)">69</text>
+  </g>
+  <g id="g614">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text612" transform="matrix(1 0 0 1 591.377 400.9199)">101</text>
+  </g>
+  <g id="g618">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text616" transform="matrix(1 0 0 1 584.2891 372.4043)">Tm</text>
+  </g>
+  <g id="g622">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text620" transform="matrix(1 0 0 1 584.7734 417.5098)">Md</text>
+  </g>
+  <g id="g626">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text624" transform="matrix(1 0 0 1 590.7305 431.6309)">[258]</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect628" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="618.35" y="346.04"/>
+  <g id="g632">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text630" transform="matrix(1 0 0 1 626.3496 387.5254)">173.045</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect634" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="618.35" y="391.15"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text636" transform="matrix(1 0 0 1 624.75 379.5527)">Ytterbium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text638" transform="matrix(1 0 0 1 624.75 424.6582)">Nobelium</text>
+  <g id="g642">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text640" transform="matrix(1 0 0 1 632.9863 355.8145)">70</text>
+  </g>
+  <g id="g646">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text644" transform="matrix(1 0 0 1 631.043 400.9199)">102</text>
+  </g>
+  <g id="g650">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text648" transform="matrix(1 0 0 1 625.8691 372.4043)">Yb</text>
+  </g>
+  <g id="g654">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text652" transform="matrix(1 0 0 1 625.3945 417.5098)">No</text>
+  </g>
+  <g id="g658">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text656" transform="matrix(1 0 0 1 630.3965 431.6309)">[259]</text>
+  </g>
+  <text font-family="&#x27;Helvetica&#x27;" fill="white" font-size="9.05" id="text660" transform="matrix(1 0 0 1 20.4233 370.5176)">*Lanthanide series</text>
+  <text font-family="&#x27;Helvetica&#x27;" fill="white" font-size="9.05" id="text662" transform="matrix(1 0 0 1 16.6694 403.1973)">**Actinide series</text>
+  <rect fill="#ff99cc" height="43.03" id="rect664" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="103.11" y="291.85"/>
+  <rect fill="#ffbfff" height="43.03" id="rect666" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="103.11" y="246.74"/>
+  <g id="g670">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text668" transform="matrix(1 0 0 1 110.1104 278.957)">57 - 70</text>
+  </g>
+  <g id="g674">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text672" transform="matrix(1 0 0 1 108.167 324.9844)">89 - 102</text>
+  </g>
+  <g id="g678">
+   <path d="m117.98,258.56l2.12,0.85l0,-2.99l1.76,0l0,2.98l2.12,-0.85l0.47,1.85l-2.14,0.83l1.4,2.46l-1.3,1.14l-1.41,-2.33l-1.46,2.32l-1.3,-1.13l1.43,-2.46l-2.16,-0.83l0.47,-1.84z" id="path676"/>
+  </g>
+  <g id="g682">
+   <path d="m124.01,304.34l2.12,0.85l0,-2.98l1.77,0l0,2.98l2.12,-0.85l0.47,1.85l-2.15,0.83l1.41,2.46l-1.3,1.14l-1.42,-2.33l-1.45,2.32l-1.31,-1.13l1.43,-2.46l-2.16,-0.83l0.47,-1.85z" id="path680"/>
+  </g>
+  <g id="g686">
+   <path d="m114.31,304.34l2.12,0.85l0,-2.98l1.76,0l0,2.98l2.13,-0.85l0.47,1.85l-2.15,0.83l1.4,2.46l-1.3,1.14l-1.41,-2.33l-1.45,2.32l-1.31,-1.13l1.43,-2.46l-2.16,-0.83l0.47,-1.85z" id="path684"/>
+  </g>
+  <g id="g690">
+   <text font-family="&#x27;Helvetica-Light&#x27;" fill="white" font-size="7.96" id="text688" transform="matrix(1 0 0 1 177.8711 80.791)">Atomic Number</text>
+  </g>
+  <g id="g694">
+   <text font-family="&#x27;Helvetica-Light&#x27;" fill="white" font-size="7.96" id="text692" transform="matrix(1 0 0 1 207.0742 97.7026)">Symbol</text>
+  </g>
+  <g id="g698">
+   <text font-family="&#x27;Helvetica-Light&#x27;" fill="white" font-size="7.96" id="text696" transform="matrix(1 0 0 1 212.3774 114.0864)">Name</text>
+  </g>
+  <g id="g704">
+   <a id="a702">
+    <text font-family="&#x27;Helvetica-Light&#x27;" fill="white" font-size="7.96" id="text700" transform="matrix(1 0 0 1 155.2998 125.2603)">Average Atomic Mass</text>
+   </a>
+  </g>
+  <line fill="none" id="line706" stroke="#000000" stroke-miterlimit="10" stroke-width="0.68" x1="264.22" x2="236.96" y1="95.26" y2="95.26"/>
+  <line fill="none" id="line708" stroke="#000000" stroke-miterlimit="10" stroke-width="0.68" x1="264.22" x2="236.96" y1="79.13" y2="79.13"/>
+  <line fill="none" id="line710" stroke="#000000" stroke-miterlimit="10" stroke-width="0.68" x1="264.22" x2="236.96" y1="111.94" y2="111.94"/>
+  <line fill="none" id="line712" stroke="#000000" stroke-miterlimit="10" stroke-width="0.68" x1="264.22" x2="236.96" y1="123.07" y2="123.07"/>
+  <rect fill="#cccc99" height="43.03" id="rect714" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.21" y="66.06"/>
+  <g id="g718">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text716" transform="matrix(1 0 0 1 546.4512 107.5396)">10.81</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect720" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.21" y="111.16"/>
+  <g id="g724">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text722" transform="matrix(1 0 0 1 544.8301 152.645)">26.982</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect726" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.21" y="156.27"/>
+  <g id="g730">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text728" transform="matrix(1 0 0 1 544.8301 197.7505)">69.723</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect732" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.21" y="201.37"/>
+  <g id="g736">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text734" transform="matrix(1 0 0 1 543.2109 242.8555)">114.818</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect738" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.21" y="246.48"/>
+  <g id="g742">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text740" transform="matrix(1 0 0 1 544.8301 287.9609)">204.38</text>
+  </g>
+  <rect fill="#A0FFA0" height="43.03" id="rect744" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="574.49" y="66.06"/>
+  <g id="g748">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text746" transform="matrix(1 0 0 1 584.1074 107.5396)">12.011</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect750" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="574.49" y="111.16"/>
+  <g id="g754">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text752" transform="matrix(1 0 0 1 584.1074 152.645)">28.085</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect756" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="574.49" y="156.27"/>
+  <g id="g760">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text758" transform="matrix(1 0 0 1 584.1074 197.7505)">72.630</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect762" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="574.49" y="201.37"/>
+  <g id="g766">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text764" transform="matrix(1 0 0 1 582.4883 242.8555)">118.710</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect768" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="574.49" y="246.48"/>
+  <g id="g772">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text770" transform="matrix(1 0 0 1 585.7266 287.9609)">207.2</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect774" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="574.49" y="291.58"/>
+  <rect fill="#a0ffa0" height="43.03" id="rect776" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="613.92" y="66.06"/>
+  <g id="g780">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text778" transform="matrix(1 0 0 1 623.5352 107.5396)">14.007</text>
+  </g>
+  <rect fill="#A0FFA0" height="43.03" id="rect782" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="613.92" y="111.16"/>
+  <g id="g786">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text784" transform="matrix(1 0 0 1 623.5352 152.645)">30.974</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect788" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="613.92" y="156.27"/>
+  <g id="g792">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text790" transform="matrix(1 0 0 1 623.5352 197.7505)">74.922</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect794" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="613.92" y="201.37"/>
+  <g id="g798">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text796" transform="matrix(1 0 0 1 621.916 242.8555)">121.760</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect800" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="613.92" y="246.48"/>
+  <g id="g804">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text802" transform="matrix(1 0 0 1 621.916 287.9609)">208.980</text>
+  </g>
+  <rect fill="#a0ffa9" height="43.03" id="rect806" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="653.19" y="66.06"/>
+  <rect fill="#ffff99" height="43.03" id="rect808" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="66.06"/>
+  <rect fill="#c0ffff" height="43.03" id="rect810" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="732.24" y="66.06"/>
+  <rect fill="#c0ffff" height="43.03" id="rect812" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="732.24" y="20.95"/>
+  <g id="g816">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text814" transform="matrix(1 0 0 1 662.8105 107.5396)">15.999</text>
+  </g>
+  <rect fill="#A0FFA0" height="43.03" id="rect818" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="653.19" y="111.16"/>
+  <g id="g822">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text820" transform="matrix(1 0 0 1 664.4316 152.645)">32.06</text>
+  </g>
+  <rect fill="#A0FFA0" height="43.03" id="rect824" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="653.19" y="156.27"/>
+  <g id="g828">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text826" transform="matrix(1 0 0 1 664.4316 197.7505)">78.97</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect830" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="653.19" y="201.37"/>
+  <g id="g834">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text832" transform="matrix(1 0 0 1 662.8105 242.8555)">127.60</text>
+  </g>
+  <rect fill="#cccc99" height="43.03" id="rect836" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="653.19" y="246.48"/>
+  <g id="g840">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text838" transform="matrix(1 0 0 1 665.2402 286.9609)">[209]</text>
+  </g>
+  <g id="g844">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text842" transform="matrix(1 0 0 1 702.2402 107.5396)">18.998</text>
+  </g>
+  <rect fill="#ffff99" height="43.03" id="rect846" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="111.16"/>
+  <rect fill="#c0ffff" height="43.03" id="rect848" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="732.21" y="111.16"/>
+  <g id="g852">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text850" transform="matrix(1 0 0 1 703.8613 152.645)">35.45</text>
+  </g>
+  <rect fill="#ffff99" height="43.03" id="rect854" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="156.27"/>
+  <g id="g858">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text856" transform="matrix(1 0 0 1 702.2402 197.7505)">79.904</text>
+  </g>
+  <rect fill="#ffff99" height="43.03" id="rect860" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="201.37"/>
+  <g id="g864">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text862" transform="matrix(1 0 0 1 700.6211 242.8555)">126.904</text>
+  </g>
+  <rect fill="#ffff99" height="43.03" id="rect866" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="246.48"/>
+  <g id="g870">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text868" transform="matrix(1 0 0 1 704.6699 286.9609)">[210]</text>
+  </g>
+  <g id="g874">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text872" transform="matrix(1 0 0 1 741.5156 107.5396)">20.180</text>
+  </g>
+  <g id="g878">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text876" transform="matrix(1 0 0 1 743.1367 62.4336)">4.003</text>
+  </g>
+  <g id="g882">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text880" transform="matrix(1 0 0 1 741.5156 152.645)">39.948</text>
+  </g>
+  <rect fill="#c0ffff" height="43.03" id="rect884" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="731.9" y="156.27"/>
+  <g id="g888">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text886" transform="matrix(1 0 0 1 741.5156 197.7505)">83.798</text>
+  </g>
+  <rect fill="#c0ffff" height="43.03" id="rect890" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="731.9" y="201.37"/>
+  <g id="g894">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text892" transform="matrix(1 0 0 1 739.8965 242.8555)">131.293</text>
+  </g>
+  <rect fill="#c0ffff" height="43.03" id="rect896" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="731.9" y="246.48"/>
+  <g id="g900">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text898" transform="matrix(1 0 0 1 743.9453 286.9609)">[222]</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect902" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.46" y="156.5"/>
+  <g id="g906">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text904" transform="matrix(1 0 0 1 152.0752 197.981)">44.956</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect908" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.46" y="201.6"/>
+  <g id="g912">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text910" transform="matrix(1 0 0 1 152.0752 243.0859)">88.906</text>
+  </g>
+  <rect fill="#ffbfff" height="43.03" id="rect914" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.46" y="246.71"/>
+  <g id="g918">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text916" transform="matrix(1 0 0 1 150.4561 288.1914)">174.967</text>
+  </g>
+  <rect fill="#ff99cc" height="43.03" id="rect920" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="142.46" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect922" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="181.73" y="156.5"/>
+  <g id="g926">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text924" transform="matrix(1 0 0 1 191.3511 197.981)">47.867</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect928" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="181.73" y="201.6"/>
+  <g id="g932">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text930" transform="matrix(1 0 0 1 191.3511 243.0859)">91.224</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect934" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="181.73" y="246.71"/>
+  <g id="g938">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text936" transform="matrix(1 0 0 1 191.3511 288.1914)">178.49</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect940" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="181.73" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect942" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.01" y="156.5"/>
+  <g id="g946">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text944" transform="matrix(1 0 0 1 230.6265 197.981)">50.942</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect948" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.01" y="201.6"/>
+  <g id="g952">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text950" transform="matrix(1 0 0 1 230.6265 243.0859)">92.906</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect954" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.01" y="246.71"/>
+  <g id="g958">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text956" transform="matrix(1 0 0 1 229.0073 288.1914)">180.948</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect960" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="221.01" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect962" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="260.28" y="156.5"/>
+  <g id="g966">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text964" transform="matrix(1 0 0 1 269.9019 197.981)">51.996</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect968" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="260.28" y="201.6"/>
+  <g id="g972">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text970" transform="matrix(1 0 0 1 271.521 243.0859)">95.95</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect974" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="260.28" y="246.71"/>
+  <g id="g978">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text976" transform="matrix(1 0 0 1 269.9019 288.1914)">183.84</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect980" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="260.28" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect982" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="299.56" y="156.5"/>
+  <g id="g986">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text984" transform="matrix(1 0 0 1 309.1772 197.981)">54.938</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect988" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="299.56" y="201.6"/>
+  <g id="g992">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text990" transform="matrix(1 0 0 1 313.2251 242.0859)">[97]</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect994" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="299.56" y="246.71"/>
+  <g id="g998">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text996" transform="matrix(1 0 0 1 307.5581 288.1914)">186.207</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1000" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="299.56" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect1002" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="338.83" y="156.5"/>
+  <g id="g1006">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1004" transform="matrix(1 0 0 1 348.4526 197.981)">55.845</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1008" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="338.83" y="201.6"/>
+  <g id="g1012">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1010" transform="matrix(1 0 0 1 348.4526 243.0859)">101.07</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1014" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" width="37.05" x="338.83" y="246.71"/>
+  <g id="g1018">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1016" transform="matrix(1 0 0 1 348.4526 288.1914)">190.23</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1020" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="338.83" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect1022" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="378.11" y="156.5"/>
+  <g id="g1026">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1024" transform="matrix(1 0 0 1 387.7285 197.981)">58.933</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1028" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="378.11" y="201.6"/>
+  <g id="g1032">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1030" transform="matrix(1 0 0 1 386.1094 243.0859)">102.906</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1034" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="378.11" y="246.71"/>
+  <g id="g1038">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1036" transform="matrix(1 0 0 1 386.1094 288.1914)">192.217</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1040" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="378.11" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect1042" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="417.38" y="156.5"/>
+  <g id="g1046">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1044" transform="matrix(1 0 0 1 427.0039 197.981)">58.693</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1048" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="417.38" y="201.6"/>
+  <g id="g1052">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1050" transform="matrix(1 0 0 1 427.0039 243.0859)">106.42</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1054" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="417.38" y="246.71"/>
+  <g id="g1058">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1056" transform="matrix(1 0 0 1 425.3848 288.1914)">195.084</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1060" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="417.38" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect1062" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="456.66" y="156.5"/>
+  <g id="g1066">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1064" transform="matrix(1 0 0 1 466.2793 197.981)">63.546</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1068" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="456.66" y="201.6"/>
+  <g id="g1072">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1070" transform="matrix(1 0 0 1 464.6602 243.0859)">107.868</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1074" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="456.66" y="246.71"/>
+  <g id="g1078">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1076" transform="matrix(1 0 0 1 464.6602 288.1914)">196.997</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1080" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="456.66" y="291.81"/>
+  <rect fill="#ffc0c0" height="43.03" id="rect1082" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="495.94" y="156.5"/>
+  <g id="g1086">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1084" transform="matrix(1 0 0 1 507.1758 197.981)">65.38</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1088" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="495.94" y="201.6"/>
+  <g id="g1092">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1090" transform="matrix(1 0 0 1 503.9355 243.0859)">112.414</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1094" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="495.94" y="246.71"/>
+  <g id="g1098">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1096" transform="matrix(1 0 0 1 503.9355 288.1914)">200.592</text>
+  </g>
+  <rect fill="#ffc0c0" height="43.03" id="rect1100" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="495.94" y="291.81"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1102" transform="matrix(1 0 0 1 546.1758 99.5664)">Boron</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1104" transform="matrix(1 0 0 1 541.1406 144.6724)">Aluminum</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1106" transform="matrix(1 0 0 1 544.1328 189.7778)">Gallium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1108" transform="matrix(1 0 0 1 545.0762 234.8833)">Indium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1110" transform="matrix(1 0 0 1 543.1875 279.9883)">Thallium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1112" transform="matrix(1 0 0 1 583.5645 99.5664)">Carbon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1114" transform="matrix(1 0 0 1 584.668 144.6724)">Silicon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1116" transform="matrix(1 0 0 1 578.2109 189.7778)">Germanium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1118" transform="matrix(1 0 0 1 589.2324 234.8833)">Tin</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1120" transform="matrix(1 0 0 1 586.5547 279.9883)">Lead</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1122" transform="matrix(1 0 0 1 581.7734 325.0938)">Flerovium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1124" transform="matrix(1 0 0 1 621.5762 99.5664)">Nitrogen</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1126" transform="matrix(1 0 0 1 617.3223 144.6724)">Phosphorus</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1128" transform="matrix(1 0 0 1 622.834 189.7778)">Arsenic</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1130" transform="matrix(1 0 0 1 620.6289 234.8833)">Antimony</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1132" transform="matrix(1 0 0 1 622.2051 279.9883)">Bismuth</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1134" transform="matrix(1 0 0 1 0 0) matrix(1 0 0 1 661.795 99.5664)">Oxygen</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1136" transform="matrix(1 0 0 1 664.4727 144.6724)">Sulfur</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1138" transform="matrix(1 0 0 1 660.0645 189.7778)">Selenium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1140" transform="matrix(1 0 0 1 660.2227 234.8833)">Tellurium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1142" transform="matrix(1 0 0 1 660.0645 279.9883)">Polonium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1144" transform="matrix(1 0 0 1 701.0664 99.5664)">Fluorine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1146" transform="matrix(1 0 0 1 700.5957 144.6724)">Chlorine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1148" transform="matrix(1 0 0 1 700.5957 189.7778)">Bromine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1150" transform="matrix(1 0 0 1 703.2715 234.8833)">Iodine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1152" transform="matrix(1 0 0 1 700.9082 279.9883)">Astatine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1154" transform="matrix(1 0 0 1 743.6484 99.5664)">Neon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1156" transform="matrix(1 0 0 1 741.6055 54.4609)">Helium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1158" transform="matrix(1 0 0 1 742.7051 144.6724)">Argon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1160" transform="matrix(1 0 0 1 740.5 189.7778)">Krypton</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1162" transform="matrix(1 0 0 1 0 0) matrix(1 0 0 1 742.389 234.883)">Xenon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1164" transform="matrix(1 0 0 1 742.0742 279.9883)">Radon</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1166" transform="matrix(1 0 0 1 148.2256 190.0078)">Scandium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1168" transform="matrix(1 0 0 1 152.165 235.1138)">Yttrium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1170" transform="matrix(1 0 0 1 150.1128 280.2188)">Lutetium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1172" transform="matrix(1 0 0 1 145.5474 325.3242)">Lawrencium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1174" transform="matrix(1 0 0 1 189.5469 190.0078)">Titanium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1176" transform="matrix(1 0 0 1 187.6597 235.1138)">Zirconium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1178" transform="matrix(1 0 0 1 189.7056 280.2188)">Hafnium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.44" id="text1180" transform="matrix(1 0 0 1 183.1533 325.3242)">Rutherfordium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1182" transform="matrix(1 0 0 1 226.7764 190.0078)">Vanadium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1184" transform="matrix(1 0 0 1 228.9839 235.1138)">Niobium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1186" transform="matrix(1 0 0 1 227.876 280.2188)">Tantalum</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1188" transform="matrix(1 0 0 1 228.0376 325.3242)">Dubnium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1190" transform="matrix(1 0 0 1 265.7397 190.0078)">Chromium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1192" transform="matrix(1 0 0 1 262.2739 235.1138)">Molybdenum</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1194" transform="matrix(1 0 0 1 266.9927 280.2188)">Tungsten</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1196" transform="matrix(1 0 0 1 263.3765 325.3242)">Seaborgium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1198" transform="matrix(1 0 0 1 303.1196 190.0078)">Manganese</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1200" transform="matrix(1 0 0 1 303.2759 235.1138)">Technetium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1202" transform="matrix(1 0 0 1 306.9004 280.2188)">Rhenium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1204" transform="matrix(1 0 0 1 307.5322 325.3242)">Bohrium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1206" transform="matrix(1 0 0 1 352.4761 190.0078)">Iron</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1208" transform="matrix(1 0 0 1 343.812 235.1138)">Ruthenium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1210" transform="matrix(1 0 0 1 346.8105 280.2188)">Osmium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1212" transform="matrix(1 0 0 1 346.3374 325.3242)">Hassium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1214" transform="matrix(1 0 0 1 388.2881 190.0078)">Cobalt</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1216" transform="matrix(1 0 0 1 385.2954 235.1138)">Rhodium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1218" transform="matrix(1 0 0 1 387.9766 280.2188)">Iridium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1220" transform="matrix(1 0 0 1 382.6201 325.3242)">Meitnerium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1222" transform="matrix(1 0 0 1 428.0371 190.0078)">Nickel</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1224" transform="matrix(1 0 0 1 423.4707 235.1138)">Palladium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1226" transform="matrix(1 0 0 1 425.0449 280.2188)">Platinum</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.47" id="text1228" transform="matrix(1 0 0 1 418.7652 325.3242)">Darmstadtium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1230" transform="matrix(1 0 0 1 465.5801 190.0078)">Copper</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1232" transform="matrix(1 0 0 1 468.2578 235.1138)">Silver</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1234" transform="matrix(1 0 0 1 469.043 280.2188)">Gold</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1236" transform="matrix(1 0 0 1 458.332 325.3242)">Roentgenium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1238" transform="matrix(1 0 0 1 508.9492 190.0078)">Zinc</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1240" transform="matrix(1 0 0 1 502.1816 235.1138)">Cadmium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1242" transform="matrix(1 0 0 1 504.0684 280.2188)">Mercury</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1244" transform="matrix(1 0 0 1 498.2422 325.3242)">Copernicium</text>
+  <g id="g1248">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1246" transform="matrix(1 0 0 1 551.7949 75.8291)">5</text>
+  </g>
+  <g id="g1252">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1250" transform="matrix(1 0 0 1 549.8516 120.9351)">13</text>
+  </g>
+  <g id="g1256">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1254" transform="matrix(1 0 0 1 549.8516 166.0405)">31</text>
+  </g>
+  <g id="g1260">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1258" transform="matrix(1 0 0 1 549.8516 211.146)">49</text>
+  </g>
+  <g id="g1264">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1262" transform="matrix(1 0 0 1 549.8516 256.252)">81</text>
+  </g>
+  <g id="g1268">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1266" transform="matrix(1 0 0 1 591.0703 75.8291)">6</text>
+  </g>
+  <g id="g1272">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1270" transform="matrix(1 0 0 1 589.127 120.9351)">14</text>
+  </g>
+  <g id="g1276">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1274" transform="matrix(1 0 0 1 589.127 166.0405)">32</text>
+  </g>
+  <g id="g1280">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1278" transform="matrix(1 0 0 1 589.127 211.146)">50</text>
+  </g>
+  <g id="g1284">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1282" transform="matrix(1 0 0 1 589.127 256.252)">82</text>
+  </g>
+  <g id="g1288">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1286" transform="matrix(1 0 0 1 587.1836 301.3574)">114</text>
+  </g>
+  <g id="g1292">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1290" transform="matrix(1 0 0 1 630.498 75.8291)">7</text>
+  </g>
+  <g id="g1296">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1294" transform="matrix(1 0 0 1 628.5547 120.9351)">15</text>
+  </g>
+  <g id="g1300">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1298" transform="matrix(1 0 0 1 628.5547 166.0405)">33</text>
+  </g>
+  <g id="g1304">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1302" transform="matrix(1 0 0 1 628.5547 211.146)">51</text>
+  </g>
+  <g id="g1308">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1306" transform="matrix(1 0 0 1 628.5547 256.252)">83</text>
+  </g>
+  <g id="g1312">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1310" transform="matrix(1 0 0 1 669.7734 75.8291)">8</text>
+  </g>
+  <g id="g1316">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1314" transform="matrix(1 0 0 1 667.8301 120.9351)">16</text>
+  </g>
+  <g id="g1320">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1318" transform="matrix(1 0 0 1 667.8301 166.0405)">34</text>
+  </g>
+  <g id="g1324">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1322" transform="matrix(1 0 0 1 667.8301 211.146)">53</text>
+  </g>
+  <g id="g1328">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1326" transform="matrix(1 0 0 1 667.8301 256.252)">84</text>
+  </g>
+  <g id="g1332">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1330" transform="matrix(1 0 0 1 709.2031 75.8291)">9</text>
+  </g>
+  <g id="g1336">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1334" transform="matrix(1 0 0 1 707.2598 120.9351)">17</text>
+  </g>
+  <g id="g1340">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1338" transform="matrix(1 0 0 1 707.2598 166.0405)">35</text>
+  </g>
+  <g id="g1344">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1342" transform="matrix(1 0 0 1 707.2598 211.146)">53</text>
+  </g>
+  <g id="g1348">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1346" transform="matrix(1 0 0 1 707.2598 256.252)">85</text>
+  </g>
+  <g id="g1352">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1350" transform="matrix(1 0 0 1 746.5352 75.8291)">10</text>
+  </g>
+  <g id="g1356">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1354" transform="matrix(1 0 0 1 748.4785 30.7236)">2</text>
+  </g>
+  <g id="g1360">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1358" transform="matrix(1 0 0 1 746.5352 120.9351)">18</text>
+  </g>
+  <g id="g1364">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1362" transform="matrix(1 0 0 1 746.5352 166.0405)">36</text>
+  </g>
+  <g id="g1368">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1366" transform="matrix(1 0 0 1 746.5352 211.146)">54</text>
+  </g>
+  <g id="g1372">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1370" transform="matrix(1 0 0 1 746.5352 256.252)">86</text>
+  </g>
+  <g id="g1376">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1374" transform="matrix(1 0 0 1 157.0942 166.2705)">21</text>
+  </g>
+  <g id="g1380">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1378" transform="matrix(1 0 0 1 157.0942 211.3765)">39</text>
+  </g>
+  <g id="g1384">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1382" transform="matrix(1 0 0 1 157.0942 256.4824)">71</text>
+  </g>
+  <g id="g1388">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1386" transform="matrix(1 0 0 1 155.1509 301.5879)">103</text>
+  </g>
+  <g id="g1392">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1390" transform="matrix(1 0 0 1 196.3696 166.2705)">22</text>
+  </g>
+  <g id="g1396">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1394" transform="matrix(1 0 0 1 196.3696 211.3765)">40</text>
+  </g>
+  <g id="g1400">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1398" transform="matrix(1 0 0 1 196.3696 256.4824)">72</text>
+  </g>
+  <g id="g1404">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1402" transform="matrix(1 0 0 1 194.4263 301.5879)">104</text>
+  </g>
+  <g id="g1408">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1406" transform="matrix(1 0 0 1 235.645 166.2705)">23</text>
+  </g>
+  <g id="g1412">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1410" transform="matrix(1 0 0 1 235.645 211.3765)">41</text>
+  </g>
+  <g id="g1416">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1414" transform="matrix(1 0 0 1 235.645 256.4824)">73</text>
+  </g>
+  <g id="g1420">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1418" transform="matrix(1 0 0 1 233.7017 301.5879)">105</text>
+  </g>
+  <g id="g1424">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1422" transform="matrix(1 0 0 1 274.9204 166.2705)">24</text>
+  </g>
+  <g id="g1428">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1426" transform="matrix(1 0 0 1 274.9204 211.3765)">42</text>
+  </g>
+  <g id="g1432">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1430" transform="matrix(1 0 0 1 274.9204 256.4824)">74</text>
+  </g>
+  <g id="g1436">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1434" transform="matrix(1 0 0 1 272.9771 301.5879)">106</text>
+  </g>
+  <g id="g1440">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1438" transform="matrix(1 0 0 1 314.1958 166.2705)">25</text>
+  </g>
+  <g id="g1444">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1442" transform="matrix(1 0 0 1 314.1958 211.3765)">43</text>
+  </g>
+  <g id="g1448">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1446" transform="matrix(1 0 0 1 314.1958 256.4824)">75</text>
+  </g>
+  <g id="g1452">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1450" transform="matrix(1 0 0 1 312.2524 301.5879)">107</text>
+  </g>
+  <g id="g1456">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1454" transform="matrix(1 0 0 1 353.4717 166.2705)">26</text>
+  </g>
+  <g id="g1460">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1458" transform="matrix(1 0 0 1 353.4717 211.3765)">44</text>
+  </g>
+  <g id="g1464">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1462" transform="matrix(1 0 0 1 353.4717 256.4824)">76</text>
+  </g>
+  <g id="g1468">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1466" transform="matrix(1 0 0 1 351.5283 301.5879)">108</text>
+  </g>
+  <g id="g1472">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1470" transform="matrix(1 0 0 1 392.7471 166.2705)">27</text>
+  </g>
+  <g id="g1476">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1474" transform="matrix(1 0 0 1 392.7471 211.3765)">45</text>
+  </g>
+  <g id="g1480">
+   <text font-family="Helvetica-Narrow-Bold" fill="black" font-size="8.52px" id="text1478" transform="translate(392.7471,256.4824)">77</text>
+  </g>
+  <g id="g1484">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1482" transform="matrix(1 0 0 1 390.8037 301.5879)">109</text>
+  </g>
+  <g id="g1488">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1486" transform="matrix(1 0 0 1 432.0234 166.2705)">28</text>
+  </g>
+  <g id="g1492">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1490" transform="matrix(1 0 0 1 432.0234 211.3765)">46</text>
+  </g>
+  <g id="g1496">
+   <text font-family="Helvetica-Narrow-Bold" fill="black" font-size="8.52px" id="text1494" transform="translate(432.0234,256.4824)">78</text>
+  </g>
+  <g id="g1500">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1498" transform="matrix(1 0 0 1 430.0801 301.5879)">110</text>
+  </g>
+  <g id="g1504">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1502" transform="matrix(1 0 0 1 471.2988 166.2705)">29</text>
+  </g>
+  <g id="g1508">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1506" transform="matrix(1 0 0 1 471.2988 211.3765)">47</text>
+  </g>
+  <g id="g1512">
+   <text font-family="Helvetica-Narrow-Bold" fill="black" font-size="8.52px" id="text1510" transform="translate(471.2988,256.4824)">79</text>
+  </g>
+  <g id="g1516">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1514" transform="matrix(1 0 0 1 469.3555 301.5879)">111</text>
+  </g>
+  <g id="g1520">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1518" transform="matrix(1 0 0 1 510.5742 166.2705)">30</text>
+  </g>
+  <g id="g1524">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1522" transform="matrix(1 0 0 1 510.5742 211.3765)">48</text>
+  </g>
+  <g id="g1528">
+   <text font-family="Helvetica-Narrow-Bold" fill="black" font-size="8.52px" id="text1526" transform="translate(510.5742,256.4824)">80</text>
+  </g>
+  <g id="g1532">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1530" transform="matrix(1 0 0 1 508.6309 301.5879)">112</text>
+  </g>
+  <g id="g1536">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1534" transform="matrix(1 0 0 1 547.5176 92.4185)">B</text>
+  </g>
+  <g id="g1540">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1538" transform="matrix(1 0 0 1 545.125 137.5239)">Al</text>
+  </g>
+  <g id="g1544">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1542" transform="matrix(1 0 0 1 542.248 182.6299)">Ga</text>
+  </g>
+  <g id="g1548">
+   <text font-family="Helvetica-Bold" fill="black" font-size="17.23px" id="text1546" transform="translate(546.084,227.7354)">In</text>
+  </g>
+  <g id="g1552">
+   <text font-family="Helvetica-Bold" fill="black" font-size="17.23px" id="text1550" transform="translate(546.084,272.8408)">Tl</text>
+  </g>
+  <g id="g1556">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1554" transform="matrix(1 0 0 1 586.793 92.4185)">C</text>
+  </g>
+  <g id="g1560">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1558" transform="matrix(1 0 0 1 584.875 137.5239)">Si</text>
+  </g>
+  <g id="g1564">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1562" transform="matrix(1 0 0 1 581.5234 182.6299)">Ge</text>
+  </g>
+  <g id="g1568">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1566" transform="matrix(1 0 0 1 582.0078 227.7354)">Sn</text>
+  </g>
+  <g id="g1572">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1570" transform="matrix(1 0 0 1 582.0078 272.8408)">Pb</text>
+  </g>
+  <g id="g1576">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="16.11" id="text1574" transform="matrix(1 0 0 1 585.7695 315.9844)">Fl</text>
+  </g>
+  <g id="g1580">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1578" transform="matrix(1 0 0 1 626.2227 92.4185)">N</text>
+  </g>
+  <g id="g1584">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1582" transform="matrix(1 0 0 1 626.6992 137.5239)">P</text>
+  </g>
+  <g id="g1588">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1586" transform="matrix(1 0 0 1 621.4336 182.6299)">As</text>
+  </g>
+  <g id="g1592">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1590" transform="matrix(1 0 0 1 621.4375 227.7354)">Sb</text>
+  </g>
+  <g id="g1596">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1594" transform="matrix(1 0 0 1 623.8301 272.8408)">Bi</text>
+  </g>
+  <g id="g1600" transform="matrix(1 0 0 1 0 0)">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1598" transform="matrix(1 0 0 1 665.0195 92.4185)">O</text>
+  </g>
+  <g id="g1604">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1602" transform="matrix(1 0 0 1 665.9746 137.5239)">S</text>
+  </g>
+  <g id="g1608">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1606" transform="matrix(1 0 0 1 661.1836 182.6299)">Se</text>
+  </g>
+  <g id="g1612">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1610" transform="matrix(1 0 0 1 661.668 227.7354)">Te</text>
+  </g>
+  <g id="g1616">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1614" transform="matrix(1 0 0 1 660.7129 272.8408)">Po</text>
+  </g>
+  <g id="g1620">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1618" transform="matrix(1 0 0 1 705.8867 92.4185)">F</text>
+  </g>
+  <g id="g1624">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1622" transform="matrix(1 0 0 1 702.5352 137.5239)">Cl</text>
+  </g>
+  <g id="g1628">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1626" transform="matrix(1 0 0 1 701.5762 182.6299)">Br</text>
+  </g>
+  <g id="g1632">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1630" transform="matrix(1 0 0 1 708.7559 227.7354)">I</text>
+  </g>
+  <g id="g1636">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1634" transform="matrix(1 0 0 1 702.0605 272.8408)">At</text>
+  </g>
+  <g id="g1640">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1638" transform="matrix(1 0 0 1 739.4141 92.4185)">Ne</text>
+  </g>
+  <g id="g1644">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1642" transform="matrix(1 0 0 1 739.4141 47.313)">He</text>
+  </g>
+  <g id="g1648">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1646" transform="matrix(1 0 0 1 740.8516 137.5239)">Ar</text>
+  </g>
+  <g id="g1652">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1650" transform="matrix(1 0 0 1 740.8516 182.6299)">Kr</text>
+  </g>
+  <g id="g1656">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1654" transform="matrix(1 0 0 1 739.8887 227.7354)">Xe</text>
+  </g>
+  <g id="g1660">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1658" transform="matrix(1 0 0 1 738.9434 272.8408)">Rn</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect1662" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="613.92" y="291.56"/>
+  <g id="g1666">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1664" transform="matrix(1 0 0 1 625.9648 332.0449)">[289]</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect1668" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="653.19" y="291.56"/>
+  <g id="g1672">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1670" transform="matrix(1 0 0 1 665.2402 332.0449)">[293]</text>
+  </g>
+  <rect fill="#ffff99" height="43.03" id="rect1674" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="692.62" y="291.56"/>
+  <g id="g1678">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1676" transform="matrix(1 0 0 1 704.6699 332.0449)">[293]</text>
+  </g>
+  <rect fill="#c0ffff" height="43.03" id="rect1680" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="731.9" y="291.56"/>
+  <g id="g1684">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1682" transform="matrix(1 0 0 1 743.9453 332.0449)">[294]</text>
+  </g>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1686" transform="matrix(1 0 0 1 617.9551 325.0723)">Moscovium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1688" transform="matrix(1 0 0 1 656.1309 325.0723)">Livermorium</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1690" transform="matrix(1 0 0 1 696.6543 325.0723)">Tennessine</text>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1692" transform="matrix(1 0 0 1 735.7734 325.0723)">Oganesson</text>
+  <g id="g1696">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1694" transform="matrix(1 0 0 1 626.6113 301.334)">115</text>
+  </g>
+  <g id="g1700">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1698" transform="matrix(1 0 0 1 665.8867 301.334)">116</text>
+  </g>
+  <g id="g1704">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1702" transform="matrix(1 0 0 1 705.3164 301.334)">117</text>
+  </g>
+  <g id="g1708">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1706" transform="matrix(1 0 0 1 744.5918 301.334)">118</text>
+  </g>
+  <g id="g1712">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1710" transform="matrix(1 0 0 1 620.4785 316.9238)">Mc</text>
+  </g>
+  <g id="g1716">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1714" transform="matrix(1 0 0 1 661.668 316.9238)">Lv</text>
+  </g>
+  <g id="g1720">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1718" transform="matrix(1 0 0 1 701.0977 316.9238)">Ts</text>
+  </g>
+  <g id="g1724">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1722" transform="matrix(1 0 0 1 738.4629 316.9238)">Og</text>
+  </g>
+  <g id="g1728">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1726" transform="matrix(1 0 0 1 150.4478 182.8594)">Sc</text>
+  </g>
+  <g id="g1732">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1730" transform="matrix(1 0 0 1 155.2373 227.9658)">Y</text>
+  </g>
+  <g id="g1736">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1734" transform="matrix(1 0 0 1 150.46 273.0713)">Lu</text>
+  </g>
+  <g id="g1740">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1738" transform="matrix(1 0 0 1 152.3696 318.1768)">Lr</text>
+  </g>
+  <g id="g1744">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1742" transform="matrix(1 0 0 1 192.6035 182.8594)">Ti</text>
+  </g>
+  <g id="g1748">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1746" transform="matrix(1 0 0 1 191.645 227.9658)">Zr</text>
+  </g>
+  <g id="g1752">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1750" transform="matrix(1 0 0 1 191.1694 273.0713)">Hf</text>
+  </g>
+  <g id="g1756">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1754" transform="matrix(1 0 0 1 191.1694 318.1768)">Rf</text>
+  </g>
+  <g id="g1760">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1758" transform="matrix(1 0 0 1 233.7881 182.8594)">V</text>
+  </g>
+  <g id="g1764">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1762" transform="matrix(1 0 0 1 228.0522 227.9658)">Nb</text>
+  </g>
+  <g id="g1768">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1766" transform="matrix(1 0 0 1 229.4819 273.0713)">Ta</text>
+  </g>
+  <g id="g1772">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1770" transform="matrix(1 0 0 1 228.0522 318.1768)">Db</text>
+  </g>
+  <g id="g1776">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1774" transform="matrix(1 0 0 1 269.2373 182.8594)">Cr</text>
+  </g>
+  <g id="g1780">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1778" transform="matrix(1 0 0 1 266.3735 227.9658)">Mo</text>
+  </g>
+  <g id="g1784">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1782" transform="matrix(1 0 0 1 270.6797 273.0713)">W</text>
+  </g>
+  <g id="g1788">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="15.89" id="text1786" transform="matrix(1 0 0 1 268.7554 317.0293)">Sg</text>
+  </g>
+  <g id="g1792">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1790" transform="matrix(1 0 0 1 305.6489 182.8594)">Mn</text>
+  </g>
+  <g id="g1796">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1794" transform="matrix(1 0 0 1 308.0332 227.9658)">Tc</text>
+  </g>
+  <g id="g1800">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1798" transform="matrix(1 0 0 1 307.0742 273.0713)">Re</text>
+  </g>
+  <g id="g1804">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1802" transform="matrix(1 0 0 1 306.6035 318.1768)">Bh</text>
+  </g>
+  <g id="g1808">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1806" transform="matrix(1 0 0 1 347.3086 182.8594)">Fe</text>
+  </g>
+  <g id="g1812">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1810" transform="matrix(1 0 0 1 345.8789 227.9658)">Ru</text>
+  </g>
+  <g id="g1816">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1814" transform="matrix(1 0 0 1 345.8706 273.0713)">Os</text>
+  </g>
+  <g id="g1820">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1818" transform="matrix(1 0 0 1 346.3496 318.1768)">Hs</text>
+  </g>
+  <g id="g1824">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1822" transform="matrix(1 0 0 1 385.1543 182.8594)">Co</text>
+  </g>
+  <g id="g1828">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1826" transform="matrix(1 0 0 1 385.1543 227.9658)">Rh</text>
+  </g>
+  <g id="g1832">
+   <text font-family="Helvetica-Bold" fill="black" font-size="17.23px" id="text1830" transform="translate(390.8901,273.0713)">Ir</text>
+  </g>
+  <g id="g1836">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1834" transform="matrix(1 0 0 1 386.5923 318.1768)">Mt</text>
+  </g>
+  <g id="g1840">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1838" transform="matrix(1 0 0 1 427.2988 182.8594)">Ni</text>
+  </g>
+  <g id="g1844">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1842" transform="matrix(1 0 0 1 424.9043 227.9658)">Pd</text>
+  </g>
+  <g id="g1848">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1846" transform="matrix(1 0 0 1 427.2988 273.0713)">Pt</text>
+  </g>
+  <g id="g1852">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1850" transform="matrix(1 0 0 1 424.9004 318.1768)">Ds</text>
+  </g>
+  <g id="g1856">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1854" transform="matrix(1 0 0 1 463.7051 182.8594)">Cu</text>
+  </g>
+  <g id="g1860">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="16.48" id="text1858" transform="matrix(1 0 0 1 463.7051 227.3247)">Ag</text>
+  </g>
+  <g id="g1864">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1862" transform="matrix(1 0 0 1 463.7051 273.0713)">Au</text>
+  </g>
+  <g id="g1868">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1866" transform="matrix(1 0 0 1 463.7051 318.1768)">Rg</text>
+  </g>
+  <g id="g1872">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1870" transform="matrix(1 0 0 1 503.9395 182.8594)">Zn</text>
+  </g>
+  <g id="g1876">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1874" transform="matrix(1 0 0 1 502.9805 227.9658)">Cd</text>
+  </g>
+  <g id="g1880">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="16.11" id="text1878" transform="matrix(1 0 0 1 503.7305 272.1094)">Hg</text>
+  </g>
+  <g id="g1884">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="17.23" id="text1882" transform="matrix(1 0 0 1 502.9805 318.1768)">Cn</text>
+  </g>
+  <g id="g1888">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1886" transform="matrix(1 0 0 1 586.5371 332.0684)">[289]</text>
+  </g>
+  <rect fill="#cccccc" height="43.03" id="rect1890" stroke="#000000" stroke-miterlimit="10" stroke-width="0.92" transform="matrix(1 0 0 1 0 0)" width="37.05" x="535.15" y="290.58"/>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text1892" transform="matrix(1 0 0 1 542.625 325.0938)">Nihonium</text>
+  <g id="g1896">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text1894" transform="matrix(1 0 0 1 547.8496 301.3574)">113</text>
+  </g>
+  <g id="g1900">
+   <text font-family="&#x27;Helvetica-Bold&#x27;" fill="black" font-size="16.11" id="text1898" transform="matrix(1 0 0 1 542.8574 315.9844)">Nh</text>
+  </g>
+  <g id="g1904">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1902" transform="matrix(1 0 0 1 547.2031 332.0684)">[286]</text>
+  </g>
+  <g id="g1908">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1906" transform="matrix(1 0 0 1 154.5039 332.2969)">[262]</text>
+  </g>
+  <g id="g1912">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1910" transform="matrix(1 0 0 1 193.7798 332.2969)">[267]</text>
+  </g>
+  <g id="g1916">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1914" transform="matrix(1 0 0 1 233.0552 332.2969)">[270]</text>
+  </g>
+  <g id="g1920">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1918" transform="matrix(1 0 0 1 272.3306 332.2969)">[269]</text>
+  </g>
+  <g id="g1924">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1922" transform="matrix(1 0 0 1 311.606 332.2969)">[270]</text>
+  </g>
+  <g id="g1928">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1926" transform="matrix(1 0 0 1 350.8813 332.2969)">[270]</text>
+  </g>
+  <g id="g1932">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1930" transform="matrix(1 0 0 1 390.1572 332.2969)">[278]</text>
+  </g>
+  <g id="g1936">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1934" transform="matrix(1 0 0 1 429.4336 332.2969)">[281]</text>
+  </g>
+  <g id="g1940">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1938" transform="matrix(1 0 0 1 468.709 332.2969)">[281]</text>
+  </g>
+  <g id="g1944">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text1942" transform="matrix(1 0 0 1 507.9844 332.2969)">[285]</text>
+  </g>
+  <rect fill="#cccc99" height="9.15" id="rect2006" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="471.17" y="100.48"/>
+  <rect fill="#ffff99" height="9.15" id="rect2008" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="471.17" y="115.95"/>
+  <rect fill="#c0ffff" height="9.15" id="rect2010" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="471.17" y="132.02"/>
+  <g id="g2014">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text2012" transform="matrix(1 0 0 1 111.1841 387.5254)">138.905</text>
+  </g>
+  <text font-family="&#x27;Helvetica-Light&#x27;" fill="black" font-size="5.67" id="text2016" transform="matrix(1 0 0 1 107.5303 379.5527)">Lanthanum</text>
+  <g id="g2020">
+   <text font-family="&#x27;Helvetica-Narrow-Bold&#x27;" fill="black" font-size="8.52" id="text2018" transform="matrix(1 0 0 1 117.8218 355.8145)">57</text>
+  </g>
+  <g id="g2024">
+   <text font-family="&#x27;Helvetica-Narrow&#x27;" fill="black" font-size="7.1" id="text2022" transform="matrix(1 0 0 1 150.6841 431.6309)">232.038</text>
+  </g>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_78" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="357" xml:space="preserve" y="124.42">halogens</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_79" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="371" xml:space="preserve" y="139.42">nobile gases</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_80" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="367" xml:space="preserve" y="25.42">non metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_81" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="372" xml:space="preserve" y="42.42">alkali metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_82" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="393" xml:space="preserve" y="60.42">alkali earth metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_83" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="348" xml:space="preserve" y="77.42">metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_84" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="367" xml:space="preserve" y="92.42">post metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_85" stroke="#000000" stroke-width="0" text-anchor="middle" x="368" xml:space="preserve" y="108.42">semi metals</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_86" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="714" xml:space="preserve" y="367.42">lanthanides</text>
+  <text fill="#FFFFFF" font-family="Sans-serif" font-size="16" font-weight="normal" id="svg_87" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="717" xml:space="preserve" y="411.42">actinides</text>
+  <rect fill="#a0ffa0" height="9.15" id="svg_88" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" transform="matrix(1 0 0 1 0 0)" width="23.17" x="470.41" y="15.85"/>
+  <rect fill="#ff6666" height="9.15" id="svg_89" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="470.41" y="32.85"/>
+  <rect fill="#ffdead" height="9.15" id="svg_90" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" transform="matrix(1 0 0 1 0 0)" width="23.17" x="470.41" y="50.85"/>
+  <rect fill="#ffbfff" height="9.15" id="svg_91" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="699.41" y="374.85"/>
+  <rect fill="#ff99cc" height="9.15" id="svg_92" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="700.41" y="416.85"/>
+  <rect fill="#ffc0c0" height="9.15" id="svg_93" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="470.41" y="67.85"/>
+  <rect fill="#cccccc" height="9.15" id="svg_94" stroke="#000000" stroke-miterlimit="10" stroke-width="0.84" width="23.17" x="471.41" y="83.85"/>
+ </g>
+</svg>

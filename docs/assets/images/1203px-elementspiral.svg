@@ -253,7 +253,7 @@
        y="287.10001"
        font-size="12"
        id="text54"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="260.03"
          y="287.10001"
@@ -268,7 +268,7 @@
        y="268.68066"
        font-size="7.68"
        id="text60"
-       style="font-size:7.67999983px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:7.67999983px;font-family:'Times New Roman'">
       <tspan
          x="255.04135"
          y="268.68066"
@@ -283,7 +283,7 @@
        y="267.69666"
        font-size="12"
        id="text66"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="267.17334"
          y="267.69666"
@@ -299,7 +299,7 @@
        y="279.26831"
        font-size="12"
        id="text72"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="280.12567"
          y="279.26831"
@@ -315,7 +315,7 @@
        y="305.17001"
        font-size="12"
        id="text78"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="276.17001"
          y="305.17001"
@@ -331,7 +331,7 @@
        transform="translate(1.29)"
        font-size="12"
        id="text84"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="241.32001"
          y="304.51999"
@@ -346,7 +346,7 @@
        y="290.97"
        font-size="12"
        id="text90"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="231"
          y="290.97"
@@ -362,7 +362,7 @@
        transform="translate(2.581,-1.29)"
        font-size="12"
        id="text96"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="232.92999"
          y="271.60999"
@@ -378,7 +378,7 @@
        transform="translate(-3.226)"
        font-size="12"
        id="text102"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="249.07001"
          y="257.42001"
@@ -394,7 +394,7 @@
        transform="translate(-1.936)"
        font-size="12"
        id="text108"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="267.13"
          y="253.55"
@@ -411,7 +411,7 @@
        transform="translate(0,1.29)"
        font-size="12"
        id="text114"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="292.29999"
          y="273.54999"
@@ -426,7 +426,7 @@
        y="322.59"
        font-size="12"
        id="text120"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="281.32999"
          y="322.59"
@@ -442,7 +442,7 @@
        transform="translate(1.29)"
        font-size="12"
        id="text126"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="251.64999"
          y="330.32999"
@@ -457,7 +457,7 @@
        y="263.22"
        font-size="12"
        id="text132"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="211.64"
          y="263.22"
@@ -472,7 +472,7 @@
        y="241.28999"
        font-size="12"
        id="text138"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="236.16"
          y="241.28999"
@@ -488,7 +488,7 @@
        transform="translate(1.29,-1.29)"
        font-size="12"
        id="text144"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="267.78"
          y="235.48"
@@ -503,7 +503,7 @@
        y="255.48"
        font-size="12"
        id="text150"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="300.04001"
          y="255.48"
@@ -518,7 +518,7 @@
        y="290.32999"
        font-size="12"
        id="text156"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="342.63"
          y="290.32999"
@@ -533,7 +533,7 @@
        y="305.81"
        font-size="12"
        id="text162"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="381.98999"
          y="305.81"
@@ -548,7 +548,7 @@
        y="321.94"
        font-size="12"
        id="text168"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="421.98999"
          y="321.94"
@@ -563,7 +563,7 @@
        y="338.72"
        font-size="12"
        id="text174"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="463.92999"
          y="338.72"
@@ -578,7 +578,7 @@
        y="360.66"
        font-size="12"
        id="text180"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="495.54999"
          y="360.66"
@@ -594,7 +594,7 @@
        transform="translate(1.29,-2.581)"
        font-size="12"
        id="text186"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="485.23001"
          y="388.39999"
@@ -609,7 +609,7 @@
        y="383.23999"
        font-size="12"
        id="text192"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="454.89999"
          y="383.23999"
@@ -625,7 +625,7 @@
        transform="translate(3.226)"
        font-size="12"
        id="text198"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="415.54001"
          y="371.63"
@@ -641,7 +641,7 @@
        transform="translate(0,0.645)"
        font-size="12"
        id="text204"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="380.70001"
          y="354.20001"
@@ -656,7 +656,7 @@
        y="340.01001"
        font-size="12"
        id="text210"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="342.63"
          y="340.01001"
@@ -671,7 +671,7 @@
        y="339.35999"
        font-size="12"
        id="text216"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="290.35999"
          y="339.35999"
@@ -686,7 +686,7 @@
        y="352.91"
        font-size="12"
        id="text222"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="248.42"
          y="352.91"
@@ -701,7 +701,7 @@
        y="334.85001"
        font-size="12"
        id="text228"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="205.83"
          y="334.85001"
@@ -716,7 +716,7 @@
        y="253.55"
        font-size="12"
        id="text234"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="192.28"
          y="253.55"
@@ -732,7 +732,7 @@
        transform="translate(-3.226,-1.29)"
        font-size="12"
        id="text240"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="227.77"
          y="222.57001"
@@ -748,7 +748,7 @@
        transform="translate(3.226)"
        font-size="12"
        id="text246"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="266.48999"
          y="212.25"
@@ -763,7 +763,7 @@
        y="235.48"
        font-size="12"
        id="text252"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="312.94"
          y="235.48"
@@ -779,7 +779,7 @@
        transform="translate(3.226,0.645)"
        font-size="12"
        id="text258"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="352.95001"
          y="270.32001"
@@ -794,7 +794,7 @@
        y="290.32999"
        font-size="12"
        id="text264"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="398.12"
          y="290.32999"
@@ -809,7 +809,7 @@
        y="305.17001"
        font-size="12"
        id="text270"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="445.87"
          y="305.17001"
@@ -824,7 +824,7 @@
        y="325.17001"
        font-size="12"
        id="text276"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="493.60999"
          y="325.17001"
@@ -839,7 +839,7 @@
        y="360.66"
        font-size="12"
        id="text282"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="521.35999"
          y="360.66"
@@ -855,7 +855,7 @@
        transform="translate(1.29,-1.29)"
        font-size="12"
        id="text288"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="500.70999"
          y="409.04999"
@@ -870,7 +870,7 @@
        y="412.28"
        font-size="12"
        id="text294"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="466.51001"
          y="412.28"
@@ -885,7 +885,7 @@
        y="400.66"
        font-size="12"
        id="text300"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="426.51001"
          y="400.66"
@@ -900,7 +900,7 @@
        y="380.66"
        font-size="12"
        id="text306"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="387.79001"
          y="380.66"
@@ -915,7 +915,7 @@
        y="367.10999"
        font-size="12"
        id="text312"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="349.07999"
          y="367.10999"
@@ -930,7 +930,7 @@
        y="364.53"
        font-size="12"
        id="text318"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="300.69"
          y="364.53"
@@ -945,7 +945,7 @@
        y="376.79001"
        font-size="12"
        id="text324"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="244.55"
          y="376.79001"
@@ -960,7 +960,7 @@
        y="352.91"
        font-size="12"
        id="text330"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="190.35001"
          y="352.91"
@@ -975,7 +975,7 @@
        y="307.75"
        font-size="12"
        id="text336"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="161.31"
          y="307.75"
@@ -990,7 +990,7 @@
        y="245.16"
        font-size="12"
        id="text342"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="172.28"
          y="245.16"
@@ -1005,7 +1005,7 @@
        y="199.99001"
        font-size="12"
        id="text348"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="212.28999"
          y="199.99001"
@@ -1021,7 +1021,7 @@
        transform="translate(5.807,-1.29)"
        font-size="12"
        id="text354"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="266.48999"
          y="192.25"
@@ -1036,7 +1036,7 @@
        y="210.96001"
        font-size="12"
        id="text360"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="323.91"
          y="210.96001"
@@ -1051,7 +1051,7 @@
        y="245.8"
        font-size="12"
        id="text366"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="365.20999"
          y="245.8"
@@ -1067,7 +1067,7 @@
        transform="translate(0.645,-5.162)"
        font-size="12"
        id="text372"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="413.60001"
          y="245.16"
@@ -1083,7 +1083,7 @@
        transform="translate(0.645,-3.871)"
        font-size="12"
        id="text378"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="445.22"
          y="232.89999"
@@ -1099,7 +1099,7 @@
        transform="translate(-0.645,-3.871)"
        font-size="12"
        id="text384"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="471.67999"
          y="221.28"
@@ -1115,7 +1115,7 @@
        transform="translate(0,-3.226)"
        font-size="12"
        id="text390"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="496.84"
          y="210.96001"
@@ -1131,7 +1131,7 @@
        transform="translate(-1.29,-4.517)"
        font-size="12"
        id="text396"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="519.41998"
          y="203.22"
@@ -1147,7 +1147,7 @@
        transform="translate(0.645,-3.226)"
        font-size="12"
        id="text402"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="541.35999"
          y="193.53999"
@@ -1163,7 +1163,7 @@
        transform="translate(-1.936,-1.936)"
        font-size="12"
        id="text408"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="569.10999"
          y="183.86"
@@ -1178,7 +1178,7 @@
        y="179.34"
        font-size="12"
        id="text414"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="596.84998"
          y="179.34"
@@ -1193,7 +1193,7 @@
        y="202.57001"
        font-size="12"
        id="text420"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="607.17999"
          y="202.57001"
@@ -1208,7 +1208,7 @@
        y="216.77"
        font-size="12"
        id="text426"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="593.63"
          y="216.77"
@@ -1223,7 +1223,7 @@
        y="226.45"
        font-size="12"
        id="text432"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="570.40002"
          y="226.45"
@@ -1238,7 +1238,7 @@
        y="235.48"
        font-size="12"
        id="text438"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="546.52002"
          y="235.48"
@@ -1253,7 +1253,7 @@
        y="247.09"
        font-size="12"
        id="text444"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="514.90997"
          y="247.09"
@@ -1268,7 +1268,7 @@
        y="260.64001"
        font-size="12"
        id="text450"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="477.48001"
          y="260.64001"
@@ -1284,7 +1284,7 @@
        transform="translate(0,-2.581)"
        font-size="12"
        id="text456"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="455.54001"
          y="281.29001"
@@ -1299,7 +1299,7 @@
        y="297.42001"
        font-size="12"
        id="text462"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="484.57999"
          y="297.42001"
@@ -1314,7 +1314,7 @@
        y="317.42999"
        font-size="12"
        id="text468"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="539.42999"
          y="317.42999"
@@ -1329,7 +1329,7 @@
        y="360.66"
        font-size="12"
        id="text474"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="547.16998"
          y="360.66"
@@ -1345,7 +1345,7 @@
        transform="translate(-0.645,1.936)"
        font-size="12"
        id="text480"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="523.29999"
          y="424.54001"
@@ -1361,7 +1361,7 @@
        transform="translate(1.936,-1.29)"
        font-size="12"
        id="text486"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="475.54999"
          y="441.31"
@@ -1376,7 +1376,7 @@
        y="427.76001"
        font-size="12"
        id="text492"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="436.82999"
          y="427.76001"
@@ -1392,7 +1392,7 @@
        transform="translate(-0.645,0.645)"
        font-size="12"
        id="text498"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="394.89001"
          y="408.41"
@@ -1408,7 +1408,7 @@
        y="392.26999"
        font-size="12"
        id="text504"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="354.89001"
          y="392.26999"
@@ -1423,7 +1423,7 @@
        y="395.5"
        font-size="12"
        id="text510"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="307.78"
          y="395.5"
@@ -1439,7 +1439,7 @@
        transform="translate(0.645)"
        font-size="12"
        id="text516"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="240.03"
          y="401.95001"
@@ -1455,7 +1455,7 @@
        transform="translate(0,-0.645)"
        font-size="12"
        id="text522"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="170.99001"
          y="373.56"
@@ -1471,7 +1471,7 @@
        transform="translate(-1.29,-2.581)"
        font-size="12"
        id="text528"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="135.5"
          y="316.13"
@@ -1486,7 +1486,7 @@
        y="174.83"
        font-size="12"
        id="text534"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="198.74001"
          y="174.83"
@@ -1501,7 +1501,7 @@
        y="161.92"
        font-size="12"
        id="text540"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="274.88"
          y="161.92"
@@ -1516,7 +1516,7 @@
        y="186.44"
        font-size="12"
        id="text546"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="339.39999"
          y="186.44"
@@ -1531,7 +1531,7 @@
        y="216.77"
        font-size="12"
        id="text552"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="381.34"
          y="216.77"
@@ -1546,7 +1546,7 @@
        y="213.53999"
        font-size="12"
        id="text558"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="419.41"
          y="213.53999"
@@ -1562,7 +1562,7 @@
        transform="translate(-1.29,-1.936)"
        font-size="12"
        id="text564"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="450.38"
          y="203.86"
@@ -1577,7 +1577,7 @@
        y="190.96001"
        font-size="12"
        id="text570"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="477.48001"
          y="190.96001"
@@ -1593,7 +1593,7 @@
        transform="translate(0,-3.871)"
        font-size="12"
        id="text576"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="501.35999"
          y="183.21001"
@@ -1609,7 +1609,7 @@
        transform="translate(-0.645,-3.871)"
        font-size="12"
        id="text582"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="523.94"
          y="175.47"
@@ -1624,7 +1624,7 @@
        y="161.28"
        font-size="12"
        id="text588"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="547.82001"
          y="161.28"
@@ -1639,7 +1639,7 @@
        y="154.82001"
        font-size="12"
        id="text594"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="574.27002"
          y="154.82001"
@@ -1654,7 +1654,7 @@
        y="158.69"
        font-size="12"
        id="text600"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="611.04999"
          y="158.69"
@@ -1669,7 +1669,7 @@
        y="199.99001"
        font-size="12"
        id="text606"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="627.83002"
          y="199.99001"
@@ -1684,7 +1684,7 @@
        y="224.50999"
        font-size="12"
        id="text612"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="620.08002"
          y="224.50999"
@@ -1699,7 +1699,7 @@
        y="237.41"
        font-size="12"
        id="text618"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="595.56"
          y="237.41"
@@ -1714,7 +1714,7 @@
        y="247.74001"
        font-size="12"
        id="text624"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="569.10999"
          y="247.74001"
@@ -1729,7 +1729,7 @@
        y="258.06"
        font-size="12"
        id="text630"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="543.29999"
          y="258.06"
@@ -1745,7 +1745,7 @@
        transform="translate(1.29,-2.581)"
        font-size="12"
        id="text636"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="518.78003"
          y="268.39001"
@@ -1760,7 +1760,7 @@
        y="280"
        font-size="12"
        id="text642"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="510.39001"
          y="280"
@@ -1775,7 +1775,7 @@
        y="292.91"
        font-size="12"
        id="text648"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="545.22998"
          y="292.91"
@@ -1790,7 +1790,7 @@
        y="312.91"
        font-size="12"
        id="text654"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="575.56"
          y="312.91"
@@ -1806,7 +1806,7 @@
        transform="translate(0,-1.29)"
        font-size="12"
        id="text660"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="571.69"
          y="361.95001"
@@ -1821,7 +1821,7 @@
        y="444.54001"
        font-size="12"
        id="text666"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="540.07001"
          y="444.54001"
@@ -1837,7 +1837,7 @@
        y="425.17999"
        font-size="12"
        id="text672"
-       style="font-size:12px;font-family:'Times New Roman'">
+       style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
       <tspan
          x="360.56"
          y="425.17999"
@@ -1914,7 +1914,7 @@
      y="235.35002"
      font-size="12"
      id="text702"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="141.39665"
        y="235.35002"
@@ -1925,7 +1925,7 @@
      y="310.32999"
      font-size="12"
      id="text708"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="258.73999"
        y="310.32999"
@@ -1936,7 +1936,7 @@
      y="319.35999"
      font-size="12"
      id="text714"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="225.84"
        y="319.35999"
@@ -1947,7 +1947,7 @@
      y="296.13"
      font-size="12"
      id="text720"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="211"
        y="296.13"
@@ -1958,7 +1958,7 @@
      y="301.94"
      font-size="12"
      id="text726"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="186.48"
        y="301.94"
@@ -1969,7 +1969,7 @@
      y="472.28"
      font-size="12"
      id="text732"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="485.87"
        y="472.28"
@@ -1980,7 +1980,7 @@
      y="461.95999"
      font-size="12"
      id="text738"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="445.22"
        y="461.95999"
@@ -1991,7 +1991,7 @@
      y="443.1633"
      font-size="12"
      id="text744"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="404.57001"
        y="443.1633"
@@ -2002,7 +2002,7 @@
      y="427.07001"
      font-size="12"
      id="text750"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="313.72003"
        y="427.07001"
@@ -2013,7 +2013,7 @@
      y="429.64999"
      font-size="12"
      id="text756"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="235.52"
        y="429.64999"
@@ -2024,7 +2024,7 @@
      y="393.56335"
      font-size="12"
      id="text762"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="147.16333"
        y="393.56335"
@@ -2035,7 +2035,7 @@
      y="320.00336"
      font-size="12"
      id="text768"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="105.21333"
        y="320.00336"
@@ -2046,7 +2046,7 @@
      y="221.71669"
      font-size="12"
      id="text774"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="113.05"
        y="221.71669"
@@ -2057,7 +2057,7 @@
      y="147.63667"
      font-size="12"
      id="text780"
-     style="font-size:12px;font-family:'Times New Roman'">
+     style="fill:#000000;font-size:12px;font-family:'Times New Roman'">
     <tspan
        x="185.23332"
        y="147.63667"

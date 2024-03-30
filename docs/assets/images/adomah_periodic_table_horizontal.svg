@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1"
+    width="3550"
+    height="1010"
+    id="svg2">
+<style type="text/css">
+text.symbol {
+   font-size: 46.275px;
+   font-family: DejaVu Sans;
+   text-align: center;
+   text-anchor: middle;
+}
+
+text.z-number {
+   font-size: 21.816px;
+   font-family: DejaVu Sans;
+   text-align: center;
+   text-anchor: middle;
+   font-weight: bold;
+}
+
+/* groups */
+.alkali { fill: #FF6666; }
+.alkaline-earth { fill: #FFDEAD; }
+.transition { fill: #FFC0C0; }
+.post-transition { fill: #CCCCCC; }
+.metalloid { fill: #CCCC99; }
+.non-metal { fill: #A0FFA0; }
+.halogen { fill: #FFFF99; }
+.noble { fill: #C0FFFF; }
+.lanthanide { fill: #FFBFFF; }
+.actinide { fill: #FF99CC; }
+.unknown-prop { fill: #E8E8E8; }
+
+/* states at STP - uncomment to use */
+/*.solid { fill: #000000; }
+.liquid { fill: #008000; }
+.gas { fill: #FF0000; }
+.unknown-state { fill: #696969; }*/
+
+/* ocurrence - uncomment to use*/
+/*.primordial { stroke: #8811FF !important; }
+.decay { stroke: #773300; stroke-dasharray: 6, 10; }
+.synthetic { stroke: #4499FF; stroke-dasharray: 4, 4; }*/
+</style>
+<defs>
+   <rect id="box" width="100" height="120" stroke="#000000" stroke-width="1.5" />
+   <rect id="zno" width="" height="" fill="none" stroke="#000000" stroke-width="1.5" />
+   <polygon id="diag" points="0,0 -100,120 -100,240 0,120 0,0" stroke-width="1.5" fill="#FDFDFD" stroke="#000000" />
+</defs>
+<g>
+   <g>
+      <use xlink:href="#diag" x="3325" y="25" />
+      <use xlink:href="#diag" x="3325" y="145" />
+      <use xlink:href="#diag" x="3325" y="265" />
+      <use xlink:href="#diag" x="3325" y="385" />
+      <use xlink:href="#diag" x="3325" y="505" />
+      <use xlink:href="#diag" x="3325" y="625" />
+      <use xlink:href="#diag" x="3325" y="745" stroke-dasharray="5 5" />
+   </g>
+   <g>
+      <use xlink:href="#diag" x="2625" y="145" />
+      <use xlink:href="#diag" x="2625" y="265" />
+      <use xlink:href="#diag" x="2625" y="385" />
+      <use xlink:href="#diag" x="2625" y="505" />
+   </g>
+   <g>
+      <use xlink:href="#diag" x="1525" y="265" />
+      <use xlink:href="#diag" x="1525" y="385" />
+   </g>
+   <g>
+      <g>
+         <g opacity="0.5" id="He-alt">
+            <use class="element noble primordial" xlink:href="#box" x="3425" y="865" style="fill:#ffffff" />
+            <text class="symbol" x="3445" y="960" font-size="45" style="fill:#000000">He</text>
+            <text class="z-number gas" x="3445" y="898" font-size="35" style="fill:#000000">2</text>
+         </g>
+         <g id="Be">
+            <use class="element alkaline-earth primordial" xlink:href="#box" x="3425" y="745" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="840" font-size="45" style="fill:#000000">Be</text>
+            <text class="z-number solid" x="3445" y="778" font-size="35" style="fill:#000000">4</text>
+         </g>
+         <g id="Mg">
+            <use class="element alkaline-earth primordial" xlink:href="#box" x="3425" y="625" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="720" font-size="45" style="fill:#000000">Mg</text>
+            <text class="z-number solid" x="3445" y="658" font-size="35" style="fill:#000000">12</text>
+         </g>
+         <g id="Ca">
+            <use class="element alkaline-earth primordial" xlink:href="#box" x="3425" y="505" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="600" font-size="45" style="fill:#000000">Ca</text>
+            <text class="z-number solid" x="3445" y="538" font-size="35" style="fill:#000000">20</text>
+         </g>
+         <g id="Sr">
+            <use class="element alkaline-earth primordial" xlink:href="#box" x="3425" y="385" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="480" font-size="45" style="fill:#000000">Sr</text>
+            <text class="z-number solid" x="3445" y="418" font-size="35" style="fill:#000000">38</text>
+         </g>
+         <g id="Ba">
+            <use class="element alkaline-earth primordial" xlink:href="#box" x="3425" y="265" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="360" font-size="45" style="fill:#000000">Ba</text>
+            <text class="z-number solid" x="3445" y="298" font-size="35" style="fill:#000000">56</text>
+         </g>
+         <g id="Ra">
+            <use class="element alkaline-earth decay" xlink:href="#box" x="3425" y="145" style="fill:#FFDEAD" />
+            <text class="symbol" x="3445" y="240" font-size="45" style="fill:#000000">Ra</text>
+            <text class="z-number solid" x="3445" y="178" font-size="35" style="fill:#000000">88</text>
+         </g>
+         <g id="Ubn">
+            <use class="element unknown-prop" xlink:href="#box" x="3425" y="25" style="fill:#E8E8E8" />
+            <text class="symbol" x="3445" y="120" font-size="45" style="fill:#000000">Ubn</text>
+            <text class="z-number unknown-state" x="3445" y="58" font-size="35" style="fill:#000000">120</text>
+         </g>
+      </g>
+      <g>
+         <g opacity="0.5" id="H-alt">
+            <use class="element non-metal primordial" xlink:href="#box" x="3325" y="865" style="fill:#ffffff" />
+            <text class="symbol" x="3345" y="960" font-size="45" style="fill:#000000">H</text>
+            <text class="z-number gas" x="3345" y="898" font-size="35" style="fill:#000000">1</text>
+         </g>
+         <g id="Li">
+            <use class="element alkali primordial" xlink:href="#box" x="3325" y="745" style="fill:#FF6666" />
+            <text class="symbol" x="3345" y="840" font-size="45" style="fill:#000000">Li</text>
+            <text class="z-number solid" x="3345" y="778" font-size="35" style="fill:#000000">3</text>
+         </g>
+         <g id="Na">
+            <use class="element alkali primordial" xlink:href="#box" x="3325" y="625" style="fill:#FF6666" />
+            <text class="symbol" x="3345" y="720" font-size="45" style="fill:#000000">Na</text>
+            <text class="z-number solid" x="3345" y="658" font-size="35" style="fill:#000000">11</text>
+         </g>
+         <g id="K">
+            <use class="element alkali primordial" xlink:href="#box" x="3325" y="505" style="fill:#FF6666"/>
+            <text class="symbol" x="3345" y="600" font-size="45" style="fill:#000000">K</text>
+            <text class="z-number solid" x="3345" y="538" font-size="35" style="fill:#000000">19</text>
+         </g>
+         <g id="Rb">
+            <use class="element alkali primordial" xlink:href="#box" x="3325" y="385" style="fill:#FF6666"/>
+            <text class="symbol" x="3345" y="480" font-size="45" style="fill:#000000">Rb</text>
+            <text class="z-number solid" x="3345" y="418" font-size="35" style="fill:#000000">37</text>
+         </g>
+         <g id="Cs">
+            <use class="element alkali primordial" xlink:href="#box" x="3325" y="265" style="fill:#FF6666"/>
+            <text class="symbol" x="3345" y="360" font-size="45" style="fill:#000000">Cs</text>
+            <text class="z-number solid" x="3345" y="298" font-size="35" style="fill:#000000">55</text>
+         </g>
+         <g id="Fr">
+            <use class="element alkali decay" xlink:href="#box" x="3325" y="145" style="fill:#FF6666"/>
+            <text class="symbol" x="3345" y="240" font-size="45" style="fill:#000000">Fr</text>
+            <text class="z-number solid" x="3345" y="178" font-size="35" style="fill:#000000">87</text>
+         </g>
+         <g id="Uue">
+            <use class="element unknown-prop" xlink:href="#box" x="3325" y="25" style="fill:#E8E8E8"/>
+            <text class="symbol" x="3345" y="120" font-size="45" style="fill:#000000">Uue</text>
+            <text class="z-number unknown-state" x="3345" y="58" font-size="35" style="fill:#000000">119</text>
+         </g>
+      </g>
+   </g>
+   <g>
+      <g>
+         <g id="Ne">
+            <use class="element noble primordial" xlink:href="#box" x="3125" y="745" style="fill:#C0FFFF" />
+            <text class="symbol" x="3145" y="840" font-size="45" style="fill:#000000">Ne</text>
+            <text class="z-number gas" x="3145" y="778" font-size="35" style="fill:#000000">10</text>
+         </g>
+         <g id="Ar">
+            <use class="element noble primordial" xlink:href="#box" x="3125" y="625" style="fill:#C0FFFF"/>
+            <text class="symbol" x="3145" y="720" font-size="45" style="fill:#000000">Ar</text>
+            <text class="z-number gas" x="3145" y="658" font-size="35" style="fill:#000000">18</text>
+         </g>
+         <g id="Kr">
+            <use class="element noble primordial" xlink:href="#box" x="3125" y="505" style="fill:#C0FFFF"/>
+            <text class="symbol" x="3145" y="600" font-size="45" style="fill:#000000">Kr</text>
+            <text class="z-number gas" x="3145" y="538" font-size="35" style="fill:#000000">36</text>
+         </g>
+         <g id="Xe">
+            <use class="element noble primordial" xlink:href="#box" x="3125" y="385" style="fill:#C0FFFF"/>
+            <text class="symbol" x="3145" y="480" font-size="45" style="fill:#000000">Xe</text>
+            <text class="z-number gas" x="3145" y="418" font-size="35" style="fill:#000000">54</text>
+         </g>
+         <g id="Rn">
+            <use class="element noble decay" xlink:href="#box" x="3125" y="265" style="fill:#C0FFFF"/>
+            <text class="symbol" x="3145" y="360" font-size="45" style="fill:#000000">Rn</text>
+            <text class="z-number gas" x="3145" y="298" font-size="35" style="fill:#000000">86</text>
+         </g>
+         <g id="Og">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="3125" y="145" style="fill:#C0FFFF"/>
+            <text class="symbol" x="3145" y="240" font-size="45" style="fill:#000000">Og</text>
+            <text class="z-number unknown-state" x="3145" y="178" font-size="35" style="fill:#000000">118</text>
+         </g>
+      </g>
+      <g>
+         <g id="F">
+            <use class="element halogen primordial" xlink:href="#box" x="3025" y="745" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="840" font-size="45" style="fill:#000000">F</text>
+            <text class="z-number gas" x="3045" y="778" font-size="35" style="fill:#000000">9</text>
+         </g>
+         <g id="Cl">
+            <use class="element halogen primordial" xlink:href="#box" x="3025" y="625" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="720" font-size="45" style="fill:#000000">Cl</text>
+            <text class="z-number gas" x="3045" y="658" font-size="35" style="fill:#000000">17</text>
+         </g>
+         <g id="Br">
+            <use class="element halogen primordial" xlink:href="#box" x="3025" y="505" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="600" font-size="45" style="fill:#000000">Br</text>
+            <text class="z-number liquid" x="3045" y="538" font-size="35" style="fill:#000000">35</text>
+         </g>
+         <g id="I">
+            <use class="element halogen primordial" xlink:href="#box" x="3025" y="385" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="480" font-size="45" style="fill:#000000">I</text>
+            <text class="z-number solid" x="3045" y="418" font-size="35" style="fill:#000000">53</text>
+         </g>
+         <g id="At">
+            <use class="element halogen decay" xlink:href="#box" x="3025" y="265" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="360" font-size="45" style="fill:#000000">At</text>
+            <text class="z-number solid" x="3045" y="298" font-size="35" style="fill:#000000">85</text>
+         </g>
+         <g id="Ts">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="3025" y="145" style="fill:#FFFF99" />
+            <text class="symbol" x="3045" y="240" font-size="45" style="fill:#000000">Ts</text>
+            <text class="z-number unknown-state" x="3045" y="178" font-size="35" style="fill:#000000">117</text>
+         </g>
+      </g>
+      <g>
+         <g id="O">
+            <use class="element non-metal primordial" xlink:href="#box" x="2925" y="745" style="fill:#A0FFA0" />
+            <text class="symbol" x="2945" y="840" font-size="45" style="fill:#000000">O</text>
+            <text class="z-number gas" x="2945" y="778" font-size="35" style="fill:#000000">8</text>
+         </g>
+         <g id="S">
+            <use class="element non-metal primordial" xlink:href="#box" x="2925" y="625" style="fill:#A0FFA0" />
+            <text class="symbol" x="2945" y="720" font-size="45" style="fill:#000000">S</text>
+            <text class="z-number solid" x="2945" y="658" font-size="35" style="fill:#000000">16</text>
+         </g>
+         <g id="Se">
+            <use class="element non-metal primordial" xlink:href="#box" x="2925" y="505" style="fill:#A0FFA0" />
+            <text class="symbol" x="2945" y="600" font-size="45" style="fill:#000000">Se</text>
+            <text class="z-number solid" x="2945" y="538" font-size="35" style="fill:#000000">34</text>
+         </g>
+         <g id="Te">
+            <use class="element metalloid primordial" xlink:href="#box" x="2925" y="385" style="fill:#CCCC99" />
+            <text class="symbol" x="2945" y="480" font-size="45" style="fill:#000000">Te</text>
+            <text class="z-number solid" x="2945" y="418" font-size="35" style="fill:#000000">52</text>
+         </g>
+         <g id="Po">
+            <use class="element post-transition decay" xlink:href="#box" x="2925" y="265" style="fill:#CCCC99"/>
+            <text class="symbol" x="2945" y="360" font-size="45" style="fill:#000000">Po</text>
+            <text class="z-number solid" x="2945" y="298" font-size="35" style="fill:#000000">84</text>
+         </g>
+         <g id="Lv">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2925" y="145"  style="fill:#CCCCCC"/>
+            <text class="symbol" x="2945" y="240" font-size="45" style="fill:#000000">Lv</text>
+            <text class="z-number unknown-state" x="2945" y="178" font-size="35" style="fill:#000000">116</text>
+         </g>
+      </g>
+      <g>
+         <g id="N">
+            <use class="element non-metal primordial" xlink:href="#box" x="2825" y="745" style="fill:#A0FFA0" />
+            <text class="symbol" x="2845" y="840" font-size="45" style="fill:#000000">N</text>
+            <text class="z-number gas" x="2845" y="778" font-size="35" style="fill:#000000">7</text>
+         </g>
+         <g id="P">
+            <use class="element non-metal primordial" xlink:href="#box" x="2825" y="625" style="fill:#A0FFA0" />
+            <text class="symbol" x="2845" y="720" font-size="45" style="fill:#000000">P</text>
+            <text class="z-number solid" x="2845" y="658" font-size="35" style="fill:#000000">15</text>
+         </g>
+         <g id="As">
+            <use class="element metalloid primordial" xlink:href="#box" x="2825" y="505" style="fill:#CCCC99" />
+            <text class="symbol" x="2845" y="600" font-size="45" style="fill:#000000">As</text>
+            <text class="z-number solid" x="2845" y="538" font-size="35" style="fill:#000000">33</text>
+         </g>
+         <g id="Sb">
+            <use class="element metalloid primordial" xlink:href="#box" x="2825" y="385" style="fill:#CCCC99" />
+            <text class="symbol" x="2845" y="480" font-size="45" style="fill:#000000">Sb</text>
+            <text class="z-number solid" x="2845" y="418" font-size="35" style="fill:#000000">51</text>
+         </g>
+         <g id="Bi">
+            <use class="element post-transition primordial" xlink:href="#box" x="2825" y="265" style="fill:#CCCCCC" />
+            <text class="symbol" x="2845" y="360" font-size="45" style="fill:#000000">Bi</text>
+            <text class="z-number solid" x="2845" y="298" font-size="35" style="fill:#000000">83</text>
+         </g>
+         <g id="Mc">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2825" y="145"  style="fill:#CCCCCC"/>
+            <text class="symbol" x="2845" y="240" font-size="45" style="fill:#000000">Mc</text>
+            <text class="z-number unknown-state" x="2845" y="178" font-size="35" style="fill:#000000">115</text>
+         </g>
+      </g>
+      <g>
+         <g id="C">
+            <use class="element non-metal primordial" xlink:href="#box" x="2725" y="745" style="fill:#A0FFA0" />
+            <text class="symbol" x="2745" y="840" font-size="45" style="fill:#000000">C</text>
+            <text class="z-number solid" x="2745" y="778" font-size="35" style="fill:#000000">6</text>
+         </g>
+         <g id="Si">
+            <use class="element metalloid primordial" xlink:href="#box" x="2725" y="625" style="fill:#CCCC99"/>
+            <text class="symbol" x="2745" y="720" font-size="45" style="fill:#000000">Si</text>
+            <text class="z-number solid" x="2745" y="658" font-size="35" style="fill:#000000">14</text>
+         </g>
+         <g id="Ge">
+            <use class="element metalloid primordial" xlink:href="#box" x="2725" y="505" style="fill:#CCCC99" />
+            <text class="symbol" x="2745" y="600" font-size="45" style="fill:#000000">Ge</text>
+            <text class="z-number solid" x="2745" y="538" font-size="35" style="fill:#000000">32</text>
+         </g>
+         <g id="Sn">
+            <use class="element post-transition primordial" xlink:href="#box" x="2725" y="385" style="fill:#CCCCCC" />
+            <text class="symbol" x="2745" y="480" font-size="45" style="fill:#000000">Sn</text>
+            <text class="z-number solid" x="2745" y="418" font-size="35" style="fill:#000000">50</text>
+         </g>
+         <g id="Pb">
+            <use class="element post-transition primordial" xlink:href="#box" x="2725" y="265" style="fill:#CCCCCC" />
+            <text class="symbol" x="2745" y="360" font-size="45" style="fill:#000000">Pb</text>
+            <text class="z-number solid" x="2745" y="298" font-size="35" style="fill:#000000">82</text>
+         </g>
+         <g id="Fl">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2725" y="145" style="fill:#CCCCCC" />
+            <text class="symbol" x="2745" y="240" font-size="45" style="fill:#000000">Fl</text>
+            <text class="z-number unknown-state" x="2745" y="178" font-size="35" style="fill:#000000">114</text>
+         </g>
+      </g>
+      <g>
+         <g id="B">
+            <use class="element metalloid primordial" xlink:href="#box" x="2625" y="745" style="fill:#CCCC99"/>
+            <text class="symbol" x="2645" y="840" font-size="45" style="fill:#000000">B</text>
+            <text class="z-number solid" x="2645" y="778" font-size="35" style="fill:#000000">5</text>
+         </g>
+         <g id="Al">
+            <use class="element post-transition primordial" xlink:href="#box" x="2625" y="625" style="fill:#CCCCCC"  />
+            <text class="symbol" x="2645" y="720" font-size="45" style="fill:#000000">Al</text>
+            <text class="z-number solid" x="2645" y="658" font-size="35" style="fill:#000000">13</text>
+         </g>
+         <g id="Ga">
+            <use class="element post-transition primordial" xlink:href="#box" x="2625" y="505" style="fill:#CCCCCC"/>
+            <text class="symbol" x="2645" y="600" font-size="45" style="fill:#000000">Ga</text>
+            <text class="z-number solid" x="2645" y="538" font-size="35" style="fill:#000000">31</text>
+         </g>
+         <g id="In">
+            <use class="element post-transition primordial" xlink:href="#box" x="2625" y="385" style="fill:#CCCCCC"/>
+            <text class="symbol" x="2645" y="480" font-size="45" style="fill:#000000">In</text>
+            <text class="z-number solid" x="2645" y="418" font-size="35" style="fill:#000000">49</text>
+         </g>
+         <g id="Tl">
+            <use class="element post-transition primordial" xlink:href="#box" x="2625" y="265" style="fill:#CCCCCC"/>
+            <text class="symbol" x="2645" y="360" font-size="45" style="fill:#000000">Tl</text>
+            <text class="z-number solid" x="2645" y="298" font-size="35" style="fill:#000000">81</text>
+         </g>
+         <g id="Nh">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2625" y="145" style="fill:#CCCCCC"/>
+            <text class="symbol" x="2645" y="240" font-size="45" style="fill:#000000">Nh</text>
+            <text class="z-number unknown-state" x="2645" y="178" font-size="35" style="fill:#000000">113</text>
+         </g>
+      </g>
+   </g>
+   <g>
+      <g>
+         <g id="Zn">
+            <use class="element transition primordial" xlink:href="#box" x="2425" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2445" y="720" font-size="45" style="fill:#000000">Zn</text>
+            <text class="z-number solid" x="2445" y="658" font-size="35" style="fill:#000000">30</text>
+         </g>
+         <g id="Cd">
+            <use class="element transition primordial" xlink:href="#box" x="2425" y="505" style="fill:#FFC0C0" />
+            <text class="symbol" x="2445" y="600" font-size="45" style="fill:#000000">Cd</text>
+            <text class="z-number solid" x="2445" y="538" font-size="35" style="fill:#000000">48</text>
+         </g>
+         <g id="Hg">
+            <use class="element transition primordial" xlink:href="#box" x="2425" y="385"  style="fill:#FFC0C0"/>
+            <text class="symbol" x="2445" y="480" font-size="45" style="fill:#000000">Hg</text>
+            <text class="z-number liquid" x="2445" y="418" font-size="35" style="fill:#000000">80</text>
+         </g>
+         <g id="Cn">
+            <use class="element transition synthetic" xlink:href="#box" x="2425" y="265"  style="fill:#FFC0C0"/>
+            <text class="symbol" x="2445" y="360" font-size="45" style="fill:#000000">Cn</text>
+            <text class="z-number unknown-state" x="2445" y="298" font-size="35" style="fill:#000000">112</text>
+         </g>
+      </g>
+      <g>
+         <g id="Cu">
+            <use class="element transition primordial" xlink:href="#box" x="2325" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2345" y="720" font-size="45" style="fill:#000000">Cu</text>
+            <text class="z-number solid" x="2345" y="658" font-size="35" style="fill:#000000">29</text>
+         </g>
+         <g id="Ag">
+            <use class="element transition primordial" xlink:href="#box" x="2325" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2345" y="600" font-size="45" style="fill:#000000">Ag</text>
+            <text class="z-number solid" x="2345" y="538" font-size="35" style="fill:#000000">47</text>
+         </g>
+         <g id="Au">
+            <use class="element transition primordial" xlink:href="#box" x="2325" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2345" y="480" font-size="45" style="fill:#000000">Au</text>
+            <text class="z-number solid" x="2345" y="418" font-size="35" style="fill:#000000">79</text>
+         </g>
+         <g id="Rg">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2325" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2345" y="360" font-size="45" style="fill:#000000">Rg</text>
+            <text class="z-number unknown-state" x="2345" y="298" font-size="35" style="fill:#000000">111</text>
+         </g>
+      </g>
+      <g>
+         <g id="Ni">
+            <use class="element transition primordial" xlink:href="#box" x="2225" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2245" y="720" font-size="45" style="fill:#000000">Ni</text>
+            <text class="z-number solid" x="2245" y="658" font-size="35" style="fill:#000000">28</text>
+         </g>
+         <g id="Pd">
+            <use class="element transition primordial" xlink:href="#box" x="2225" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2245" y="600" font-size="45" style="fill:#000000">Pd</text>
+            <text class="z-number solid" x="2245" y="538" font-size="35" style="fill:#000000">46</text>
+         </g>
+         <g id="Pt">
+            <use class="element transition primordial" xlink:href="#box" x="2225" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2245" y="480" font-size="45" style="fill:#000000">Pt</text>
+            <text class="z-number solid" x="2245" y="418" font-size="35" style="fill:#000000">78</text>
+         </g>
+         <g id="Ds">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2225" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2245" y="360" font-size="45" style="fill:#000000">Ds</text>
+            <text class="z-number unknown-state" x="2245" y="298" font-size="35" style="fill:#000000">110</text>
+         </g>
+      </g>
+      <g>
+         <g id="Co">
+            <use class="element transition primordial" xlink:href="#box" x="2125" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2145" y="720" font-size="45" style="fill:#000000">Co</text>
+            <text class="z-number solid" x="2145" y="658" font-size="35" style="fill:#000000">27</text>
+         </g>
+         <g id="Rh">
+            <use class="element transition primordial" xlink:href="#box" x="2125" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2145" y="600" font-size="45" style="fill:#000000">Rh</text>
+            <text class="z-number solid" x="2145" y="538" font-size="35" style="fill:#000000">45</text>
+         </g>
+         <g id="Ir">
+            <use class="element transition primordial" xlink:href="#box" x="2125" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2145" y="480" font-size="45" style="fill:#000000">Ir</text>
+            <text class="z-number solid" x="2145" y="418" font-size="35" style="fill:#000000">77</text>
+         </g>
+         <g id="Mt">
+            <use class="element synthetic unknown-prop" xlink:href="#box" x="2125" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2145" y="360" font-size="45" style="fill:#000000">Mt</text>
+            <text class="z-number unknown-state" x="2145" y="298" font-size="35" style="fill:#000000">109</text>
+         </g>
+      </g>
+      <g>
+         <g id="Fe">
+            <use class="element transition primordial" xlink:href="#box" x="2025" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2045" y="720" font-size="45" style="fill:#000000">Fe</text>
+            <text class="z-number solid" x="2045" y="658" font-size="35" style="fill:#000000">26</text>
+         </g>
+         <g id="Ru">
+            <use class="element transition primordial" xlink:href="#box" x="2025" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2045" y="600" font-size="45" style="fill:#000000">Ru</text>
+            <text class="z-number solid" x="2045" y="538" font-size="35" style="fill:#000000">44</text>
+         </g>
+         <g id="Os">
+            <use class="element transition primordial" xlink:href="#box" x="2025" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2045" y="480" font-size="45" style="fill:#000000">Os</text>
+            <text class="z-number solid" x="2045" y="418" font-size="35" style="fill:#000000">76</text>
+         </g>
+         <g id="Hs">
+            <use class="element transition synthetic" xlink:href="#box" x="2025" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="2045" y="360" font-size="45" style="fill:#000000">Hs</text>
+            <text class="z-number unknown-state" x="2045" y="298" font-size="35" style="fill:#000000">108</text>
+         </g>
+      </g>
+      <g>
+         <g id="Mn">
+            <use class="element transition primordial" xlink:href="#box" x="1925" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1945" y="720" font-size="45" style="fill:#000000">Mn</text>
+            <text class="z-number solid" x="1945" y="658" font-size="35" style="fill:#000000">25</text>
+         </g>
+         <g id="Tc">
+            <use class="element transition decay" xlink:href="#box" x="1925" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1945" y="600" font-size="45" style="fill:#000000">Tc</text>
+            <text class="z-number solid" x="1945" y="538" font-size="35" style="fill:#000000">43</text>
+         </g>
+         <g id="Re">
+            <use class="element transition primordial" xlink:href="#box" x="1925" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1945" y="480" font-size="45" style="fill:#000000">Re</text>
+            <text class="z-number solid" x="1945" y="418" font-size="35" style="fill:#000000">75</text>
+         </g>
+         <g id="Bh">
+            <use class="element transition synthetic" xlink:href="#box" x="1925" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1945" y="360" font-size="45" style="fill:#000000">Bh</text>
+            <text class="z-number unknown-state" x="1945" y="298" font-size="35" style="fill:#000000">107</text>
+         </g>
+      </g>
+      <g>
+         <g id="Cr">
+            <use class="element transition primordial" xlink:href="#box" x="1825" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1845" y="720" font-size="45" style="fill:#000000">Cr</text>
+            <text class="z-number solid" x="1845" y="658" font-size="35" style="fill:#000000">24</text>
+         </g>
+         <g id="Mo">
+            <use class="element transition primordial" xlink:href="#box" x="1825" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1845" y="600" font-size="45" style="fill:#000000">Mo</text>
+            <text class="z-number solid" x="1845" y="538" font-size="35" style="fill:#000000">42</text>
+         </g>
+         <g id="W">
+            <use class="element transition primordial" xlink:href="#box" x="1825" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1845" y="480" font-size="45" style="fill:#000000">W</text>
+            <text class="z-number solid" x="1845" y="418" font-size="35" style="fill:#000000">74</text>
+         </g>
+         <g id="Sg">
+            <use class="element transition synthetic" xlink:href="#box" x="1825" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1845" y="360" font-size="45" style="fill:#000000">Sg</text>
+            <text class="z-number unknown-state" x="1845" y="298" font-size="35" style="fill:#000000">106</text>
+         </g>
+      </g>
+      <g>
+         <g id="V">
+            <use class="element transition primordial" xlink:href="#box" x="1725" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1745" y="720" font-size="45" style="fill:#000000">V</text>
+            <text class="z-number solid" x="1745" y="658" font-size="35" style="fill:#000000">23</text>
+         </g>
+         <g id="Nb">
+            <use class="element transition primordial" xlink:href="#box" x="1725" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1745" y="600" font-size="45" style="fill:#000000">Nb</text>
+            <text class="z-number solid" x="1745" y="538" font-size="35" style="fill:#000000">41</text>
+         </g>
+         <g id="Ta">
+            <use class="element transition primordial" xlink:href="#box" x="1725" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1745" y="480" font-size="45" style="fill:#000000">Ta</text>
+            <text class="z-number solid" x="1745" y="418" font-size="35" style="fill:#000000">73</text>
+         </g>
+         <g id="Db">
+            <use class="element transition synthetic" xlink:href="#box" x="1725" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1745" y="360" font-size="45" style="fill:#000000">Db</text>
+            <text class="z-number unknown-state" x="1745" y="298" font-size="35" style="fill:#000000">105</text>
+         </g>
+      </g>
+      <g>
+         <g id="Ti">
+            <use class="element transition primordial" xlink:href="#box" x="1625" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1645" y="720" font-size="45" style="fill:#000000">Ti</text>
+            <text class="z-number solid" x="1645" y="658" font-size="35" style="fill:#000000">22</text>
+         </g>
+         <g id="Zr">
+            <use class="element transition primordial" xlink:href="#box" x="1625" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1645" y="600" font-size="45" style="fill:#000000">Zr</text>
+            <text class="z-number solid" x="1645" y="538" font-size="35" style="fill:#000000">40</text>
+         </g>
+         <g id="Hf">
+            <use class="element transition primordial" xlink:href="#box" x="1625" y="385" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1645" y="480" font-size="45" style="fill:#000000">Hf</text>
+            <text class="z-number solid" x="1645" y="418" font-size="35" style="fill:#000000">72</text>
+         </g>
+         <g id="Rf">
+            <use class="element transition synthetic" xlink:href="#box" x="1625" y="265" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1645" y="360" font-size="45" style="fill:#000000">Rf</text>
+            <text class="z-number unknown-state" x="1645" y="298" font-size="35" style="fill:#000000">104</text>
+         </g>
+      </g>
+      <g>
+         <g id="Sc">
+            <use class="element transition primordial" xlink:href="#box" x="1525" y="625" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1545" y="720" font-size="45" style="fill:#000000">Sc</text>
+            <text class="z-number solid" x="1545" y="658" font-size="35" style="fill:#000000">21</text>
+         </g>
+         <g id="Y">
+            <use class="element transition primordial" xlink:href="#box" x="1525" y="505" style="fill:#FFC0C0"/>
+            <text class="symbol" x="1545" y="600" font-size="45" style="fill:#000000">Y</text>
+            <text class="z-number solid" x="1545" y="538" font-size="35" style="fill:#000000">39</text>
+         </g>
+         <g id="Lu">
+            <use class="element lanthanide primordial" xlink:href="#box" x="1525" y="385" style="fill:#FFBFFF"/>
+            <text class="symbol" x="1545" y="480" font-size="45" style="fill:#000000">Lu</text>
+            <text class="z-number solid" x="1545" y="418" font-size="35" style="fill:#000000">71</text>
+         </g>
+         <g id="Lr">
+            <use class="element actinide synthetic" xlink:href="#box" x="1525" y="265" style="fill:#FF99CC"/>
+            <text class="symbol" x="1545" y="360" font-size="45" style="fill:#000000">Lr</text>
+            <text class="z-number solid" x="1545" y="298" font-size="35" style="fill:#000000">103</text>
+         </g>
+      </g>
+   </g>
+   <g>
+      <g>
+         <g id="Yb">
+            <use class="element lanthanide primordial" xlink:href="#box" x="1325" y="505" style="fill:#FFBFFF"/>
+            <text class="symbol" x="1345" y="600" font-size="45" style="fill:#000000">Yb</text>
+            <text class="z-number solid" x="1345" y="538" font-size="35" style="fill:#000000">70</text>
+         </g>
+         <g id="No">
+            <use class="element actinide synthetic" xlink:href="#box" x="1325" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="1345" y="480" font-size="45" style="fill:#000000">No</text>
+            <text class="z-number solid" x="1345" y="418" font-size="35" style="fill:#000000">102</text>
+         </g>
+      </g>
+      <g>
+         <g id="Tm">
+            <use class="element lanthanide primordial" xlink:href="#box" x="1225" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="1245" y="600" font-size="45" style="fill:#000000">Tm</text>
+            <text class="z-number solid" x="1245" y="538" font-size="35" style="fill:#000000">69</text>
+         </g>
+         <g id="Md">
+            <use class="element actinide synthetic" xlink:href="#box" x="1225" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="1245" y="480" font-size="45" style="fill:#000000">Md</text>
+            <text class="z-number solid" x="1245" y="418" font-size="35" style="fill:#000000">101</text>
+         </g>
+      </g>
+      <g>
+         <g id="Er">
+            <use class="element lanthanide primordial" xlink:href="#box" x="1125" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="1145" y="600" font-size="45" style="fill:#000000">Er</text>
+            <text class="z-number solid" x="1145" y="538" font-size="35" style="fill:#000000">68</text>
+         </g>
+         <g id="Fm">
+            <use class="element actinide synthetic" xlink:href="#box" x="1125" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="1145" y="480" font-size="45" style="fill:#000000">Fm</text>
+            <text class="z-number solid" x="1145" y="418" font-size="35" style="fill:#000000">100</text>
+         </g>
+      </g>
+      <g>
+         <g id="Ho">
+            <use class="element lanthanide primordial" xlink:href="#box" x="1025" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="1045" y="600" font-size="45" style="fill:#000000">Ho</text>
+            <text class="z-number solid" x="1045" y="538" font-size="35" style="fill:#000000">67</text>
+         </g>
+         <g id="Es">
+            <use class="element actinide synthetic" xlink:href="#box" x="1025" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="1045" y="480" font-size="45" style="fill:#000000">Es</text>
+            <text class="z-number solid" x="1045" y="418" font-size="35" style="fill:#000000">99</text>
+         </g>
+      </g>
+      <g>
+         <g id="Dy">
+            <use class="element lanthanide primordial" xlink:href="#box" x="925" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="945" y="600" font-size="45" style="fill:#000000">Dy</text>
+            <text class="z-number solid" x="945" y="538" font-size="35" style="fill:#000000">66</text>
+         </g>
+         <g id="Cf">
+            <use class="element actinide decay" xlink:href="#box" x="925" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="945" y="480" font-size="45" style="fill:#000000">Cf</text>
+            <text class="z-number solid" x="945" y="418" font-size="35" style="fill:#000000">98</text>
+         </g>
+      </g>
+      <g>
+         <g id="Tb">
+            <use class="element lanthanide primordial" xlink:href="#box" x="825" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="845" y="600" font-size="45" style="fill:#000000">Tb</text>
+            <text class="z-number solid" x="845" y="538" font-size="35" style="fill:#000000">65</text>
+         </g>
+         <g id="Bk">
+            <use class="element actinide decay" xlink:href="#box" x="825" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="845" y="480" font-size="45" style="fill:#000000">Bk</text>
+            <text class="z-number solid" x="845" y="418" font-size="35" style="fill:#000000">97</text>
+         </g>
+      </g>
+      <g>
+         <g id="Gd">
+            <use class="element lanthanide primordial" xlink:href="#box" x="725" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="745" y="600" font-size="45" style="fill:#000000">Gd</text>
+            <text class="z-number solid" x="745" y="538" font-size="35" style="fill:#000000">64</text>
+         </g>
+         <g id="Cm">
+            <use class="element actinide decay" xlink:href="#box" x="725" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="745" y="480" font-size="45" style="fill:#000000">Cm</text>
+            <text class="z-number solid" x="745" y="418" font-size="35" style="fill:#000000">96</text>
+         </g>
+      </g>
+      <g>
+         <g id="Eu">
+            <use class="element lanthanide primordial" xlink:href="#box" x="625" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="645" y="600" font-size="45" style="fill:#000000">Eu</text>
+            <text class="z-number solid" x="645" y="538" font-size="35" style="fill:#000000">63</text>
+         </g>
+         <g id="Am">
+            <use class="element actinide decay" xlink:href="#box" x="625" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="645" y="480" font-size="45" style="fill:#000000">Am</text>
+            <text class="z-number solid" x="645" y="418" font-size="35" style="fill:#000000">95</text>
+         </g>
+      </g>
+      <g>
+         <g id="Sm">
+            <use class="element lanthanide primordial" xlink:href="#box" x="525" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="545" y="600" font-size="45" style="fill:#000000">Sm</text>
+            <text class="z-number solid" x="545" y="538" font-size="35" style="fill:#000000">62</text>
+         </g>
+         <g id="Pu">
+            <use class="element actinide primordial" xlink:href="#box" x="525" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="545" y="480" font-size="45" style="fill:#000000">Pu</text>
+            <text class="z-number solid" x="545" y="418" font-size="35" style="fill:#000000">94</text>
+         </g>
+      </g>
+      <g>
+         <g id="Pm">
+            <use class="element lanthanide decay" xlink:href="#box" x="425" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="445" y="600" font-size="45" style="fill:#000000">Pm</text>
+            <text class="z-number solid" x="445" y="538" font-size="35" style="fill:#000000">61</text>
+         </g>
+         <g id="Np">
+            <use class="element actinide decay" xlink:href="#box" x="425" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="445" y="480" font-size="45" style="fill:#000000">Np</text>
+            <text class="z-number solid" x="445" y="418" font-size="35" style="fill:#000000">93</text>
+         </g>
+      </g>
+      <g>
+         <g id="Nd">
+            <use class="element lanthanide primordial" xlink:href="#box" x="325" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="345" y="600" font-size="45" style="fill:#000000">Nd</text>
+            <text class="z-number solid" x="345" y="538" font-size="35" style="fill:#000000">60</text>
+         </g>
+         <g id="U">
+            <use class="element actinide primordial" xlink:href="#box" x="325" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="345" y="480" font-size="45" style="fill:#000000">U</text>
+            <text class="z-number solid" x="345" y="418" font-size="35" style="fill:#000000">92</text>
+         </g>
+      </g>
+      <g>
+         <g id="Pr">
+            <use class="element lanthanide primordial" xlink:href="#box" x="225" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="245" y="600" font-size="45" style="fill:#000000">Pr</text>
+            <text class="z-number solid" x="245" y="538" font-size="35" style="fill:#000000">59</text>
+         </g>
+         <g id="Pa">
+            <use class="element actinide decay" xlink:href="#box" x="225" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="245" y="480" font-size="45" style="fill:#000000">Pa</text>
+            <text class="z-number solid" x="245" y="418" font-size="35" style="fill:#000000">91</text>
+         </g>
+      </g>
+      <g>
+         <g id="Ce">
+            <use class="element lanthanide primordial" xlink:href="#box" x="125" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="145" y="600" font-size="45" style="fill:#000000">Ce</text>
+            <text class="z-number solid" x="145" y="538" font-size="35" style="fill:#000000">58</text>
+         </g>
+         <g id="Th">
+            <use class="element actinide primordial" xlink:href="#box" x="125" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="145" y="480" font-size="45" style="fill:#000000">Th</text>
+            <text class="z-number solid" x="145" y="418" font-size="35" style="fill:#000000">90</text>
+         </g>
+      </g>
+      <g>
+         <g id="La">
+            <use class="element lanthanide primordial" xlink:href="#box" x="25" y="505" style="fill:#FFBFFF" />
+            <text class="symbol" x="45" y="600" font-size="45" style="fill:#000000">La</text>
+            <text class="z-number solid" x="45" y="538" font-size="35" style="fill:#000000">57</text>
+         </g>
+         <g id="Ac">
+            <use class="element actinide decay" xlink:href="#box" x="25" y="385" style="fill:#FF99CC"/>
+            <text class="symbol" x="45" y="480" font-size="45" style="fill:#000000">Ac</text>
+            <text class="z-number solid" x="45" y="418" font-size="35" style="fill:#000000">89</text>
+         </g>
+      </g>
+   </g>
+   <g>
+      <g id="He">
+         <use class="noble primordial" xlink:href="#box" x="3125" y="865" stroke-dasharray="5 5" style="fill:#C0FFFF"/>
+         <text class="symbol" x="3145" y="960" font-size="45" style="fill:#000000">He</text>
+         <text class="z-number gas" x="3145" y="898" font-size="35" style="fill:#000000">2</text>
+      </g>
+      <g id="H">
+         <use class="element non-metal primordial" xlink:href="#box" x="3025" y="865" stroke-dasharray="5 5" style="fill:#A0FFA0"/>
+         <text class="symbol" x="3045" y="960" font-size="45" style="fill:#000000">H</text>
+         <text class="z-number element gas" x="3045" y="898" font-size="35" style="fill:#000000">1</text>
+      </g>
+   </g>
+</g>
+</svg>
